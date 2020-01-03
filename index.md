@@ -9,7 +9,7 @@ layout: main-layout
 Linear Algebra for Biomedical Data Science</h2>
 </center>
 
-### Course Materials
+#### Course Materials
 * Syllabus
 * *Linear Algebra: An Introduction to Data Science*
   - Part I (Chapters 0-4)
@@ -19,7 +19,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - Homework Submission Guide
   - Homework 1 due **1/??** before 9:00am.
 
-### Schedule
+#### Schedule
 * Tu 1/21: Notation, linearity, and field axioms
 * Th 1/23: Matlab Bootcamp
 * Tu 1/28: Math Review
