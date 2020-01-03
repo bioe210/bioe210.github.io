@@ -1,7 +1,11 @@
+---
+layout: main-layout
+---
+
 <link href="style.css" rel="stylesheet">
 
 <center>
-<h2>BIOE 210: Spring 2019<br>
+<h2>BIOE 210: Spring 2020<br>
 Linear Algebra for Biomedical Data Science</h2>
 </center>
 
