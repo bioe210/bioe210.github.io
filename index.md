@@ -1,8 +1,7 @@
 <link href="style.css" rel="stylesheet">
-
+# BIOE 210: Spring 2019
 <center>
-<h2>BIOE 210: Spring 2019<br>
-Linear Algebra for Biomedical Data Science</h2>
+<h2>Linear Algebra for Biomedical Data Science</h2>
 </center>
 
 ### Course Materials
