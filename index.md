@@ -14,7 +14,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * *Linear Algebra: An Introduction to Data Science*
   - [Part I (Chapters 0-7)](files/LADS_Part1.pdf)
 * Assignments
-  - [Homework Submission Guide](BIOE210_Homework_Submission_Guide.pdf)
+  - [Homework Submission Guide](files/BIOE210_Homework_Submission_Guide.pdf)
 
 #### Schedule
 * Tu 1/21: Notation, linearity, and field axioms (0 - 1.5)
