@@ -13,6 +13,8 @@ Linear Algebra for Biomedical Data Science</h2>
 * [Syllabus](files/BIOE210_Sp20_Syllabus.pdf)
 * *Linear Algebra: An Introduction to Data Science*
   - [Part I (Chapters 0-7)](files/LADS_Part1.pdf)
+* Practice Problems
+  - [Math Prelim Exam](/files/PrelimExam.pdf)
 * Assignments
   - [Homework Submission Guide](files/BIOE210_Homework_Submission_Guide.pdf)
 
