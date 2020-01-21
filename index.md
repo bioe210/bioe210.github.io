@@ -19,7 +19,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Homework Submission Guide](files/BIOE210_Homework_Submission_Guide.pdf)
 
 #### Schedule
-* Tu 1/21: Notation, linearity, and field axioms (0 - 1.5)
+* Tu 1/21: Notation, linearity, and field axioms (0 - 1.5) [ [slides] ](slides/Lecture01.pptx)
 * Th 1/23: *no class*
 * Tu 1/28: Math Review
 * Th 1/30: Norms, dot products, and multiplication (1.6 - 2.1)
