@@ -23,7 +23,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Homework 1](files/Homework1.pdf) due 2/19 before 9:00am
     - [bioe210_test_suite.m](files/bioe210_test_suite.m)
     - [lasso_data.mat](files/lasso_data.mat)
-  - [Homework 2](files/Homewokr2.pdf) due 3/6 before 9:00am
+  - [Homework 2](files/Homework2.pdf) due 3/6 before 9:00am
 
 #### Schedule
 * Tu 1/21: Notation, linearity, and field axioms (0 - 1.5) [ [slides] ](slides/Lecture01.pptx)
