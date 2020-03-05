@@ -14,6 +14,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * *Linear Algebra: An Introduction to Data Science*
   - [Part I (Chapters 0-7)](files/LADS_Part1.pdf)
   - [Part II (Chapters 8-9)](files/LADS_Part2.pdf)
+  - [Part III (Chapter 10)](files/LADS_Part3.pdf)
 * Practice Problems
   - [Math Prelim Exam](/files/PrelimExam.pdf)
   - [Practice Problems 1](files/PracticeProblems1.pdf) [ [solutions] ](files/PracticeProblems1Solutions.pdf)
@@ -39,7 +40,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 2/25: Nonlinear systems (8)
 * Th 2/27: Optimization and convexity (9.1-9.2)
 * Tu 3/3: Lines and hyperplanes (9.3-9.4)
-* Th 3/5: Support vector machines
+* Th 3/5: Support vector machines (10)
 * Tu 3/10: Basis vectors
 * Th 3/12: Orthogonality
 * *Spring Break*
