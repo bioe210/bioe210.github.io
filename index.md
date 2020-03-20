@@ -16,6 +16,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Part II (Chapters 8-9)](files/LADS_Part2.pdf)
   - [Part III (Chapter 10)](files/LADS_Part3.pdf)
   - [Part IV (Chapter 11)](files/LADS_Part4.pdf)
+  - [Part IV (Chapters 12-13)](files/LADS_Part5.pdf)
 * Practice Problems
   - [Math Prelim Exam](/files/PrelimExam.pdf)
   - [Practice Problems 1](files/PracticeProblems1.pdf) [ [solutions] ](files/PracticeProblems1Solutions.pdf)
@@ -41,20 +42,20 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 2/25: Nonlinear systems (8)
 * Th 2/27: Optimization and convexity (9.1-9.2)
 * Tu 3/3: Lines and hyperplanes (9.3-9.4)
-* Th 3/5: Support vector machines (10)
+* Th 3/5: Support vector machines (10) [ [study guide] ](files/StudyGuideCh10.pdf)
 * Tu 3/10: Basis vectors (11.1-11.4)
-* Th 3/12: Orthogonality (11.5)
+* Th 3/12: *no class*
 * *Spring Break*
-* Tu 3/24: Eigenvalues and eigenvectors
-* Th 3/26: Singular value decomposition
-* Tu 3/31: Low rank approximations
+* Tu 3/24: Orthogonality (11.5)
+* Th 3/26: Eigenvalues and eigenvectors
+* Tu 3/31: Singular value decomposition
 * **Exam 2: Th 4/2, in class**
-* Tu 4/7: Principal component analysis
-* Th 4/9: Linear models
-* Tu 4/14: Linear regression
-* Th 4/16: Applied linear regression
-* Tu 4/21: Logistic regression
-* Th 4/23: Sparsity and regularization
-* Tu 4/28: Selected Applications I
-* Th 4/30: Selected Applications II
+* Tu 4/7: Low rank approximations
+* Th 4/9: Principal component analysis
+* Tu 4/14: Linear models
+* Th 4/16: Linear regression
+* Tu 4/21: Applied linear regression
+* Th 4/23: Logistic regression
+* Tu 4/28: Sparsity and regularization
+* Th 4/30: Selected Applications I
 * **Exam 3: Tu 5/5, in class**
