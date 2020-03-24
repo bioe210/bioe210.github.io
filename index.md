@@ -16,7 +16,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Part II (Chapters 8-9)](files/LADS_Part2.pdf)
   - [Part III (Chapter 10)](files/LADS_Part3.pdf)
   - [Part IV (Chapter 11)](files/LADS_Part4.pdf)
-  - [Part IV (Chapters 12-13)](files/LADS_Part5.pdf)
+  - [Part V (Chapters 12-13)](files/LADS_Part5.pdf)
 * Practice Problems
   - [Math Prelim Exam](/files/PrelimExam.pdf)
   - [Practice Problems 1](files/PracticeProblems1.pdf) [ [solutions] ](files/PracticeProblems1Solutions.pdf)
