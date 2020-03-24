@@ -42,11 +42,11 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 2/25: Nonlinear systems (8)
 * Th 2/27: Optimization and convexity (9.1-9.2)
 * Tu 3/3: Lines and hyperplanes (9.3-9.4)
-* Th 3/5: Support vector machines (10) [ [study guide] ](files/StudyGuideCh10.pdf)
-* Tu 3/10: Basis vectors (11.1-11.4) [ [study guide] ](files/StudyGuideCh11a.pdf)
+* Th 3/5: Support vector machines (10) [ [study guide] ](guides/StudyGuideCh10.pdf) [ [FAQs] ](faqs/FAQCh10.pdf)
+* Tu 3/10: Basis vectors (11.1-11.4) [ [study guide] ](guides/StudyGuideCh11a.pdf)
 * Th 3/12: *no class*
 * *Spring Break*
-* Tu 3/24: Orthogonality (11.5) [ [video] ](https://youtu.be/j49N_s77OGM) [ [slides] ](slides/Orthogonality.pdf) [ [study guide] ](files/StudyGuideCh11b.pdf)
+* Tu 3/24: Orthogonality (11.5) [ [video] ](https://youtu.be/j49N_s77OGM) [ [slides] ](slides/Orthogonality.pdf) [ [study guide] ](guides/StudyGuideCh11b.pdf)
 * Th 3/26: Eigenvalues and eigenvectors
 * Tu 3/31: Singular value decomposition
 * **Exam 2: Th 4/2, in class**
