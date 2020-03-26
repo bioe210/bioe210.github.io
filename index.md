@@ -27,6 +27,9 @@ Linear Algebra for Biomedical Data Science</h2>
     - [bioe210_test_suite.m](files/bioe210_test_suite.m)
     - [lasso_data.mat](files/lasso_data.mat)
   - [Homework 2](files/Homework2.pdf) due 3/6 before 9:00am
+  - [Homework 3](files/Homework3.pdf) due 4/6 before 9:00am Central Time
+    - [HW3_data.mat](files/HW3_data.mat)
+    - [Supplemental slides for SVM in Matlab](slides/SVM_Matlab.pdf)
 
 #### Schedule
 * Tu 1/21: Notation, linearity, and field axioms (0 - 1.5) [ [slides] ](slides/Lecture01.pptx)
@@ -47,7 +50,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 3/12: *no class*
 * *Spring Break*
 * Tu 3/24: Orthogonality (11.5) [ [video] ](https://youtu.be/j49N_s77OGM) [ [slides] ](slides/Orthogonality.pdf) [ [study guide] ](guides/StudyGuideCh11b.pdf)
-* Th 3/26: Eigenvalues and eigenvectors
+* Th 3/26: Eigenvalues and eigenvectors [ [study guide] ](guides/StudyGuideCh12.pdf)
 * Tu 3/31: Singular value decomposition
 * **Exam 2: Th 4/2, in class**
 * Tu 4/7: Low rank approximations
