@@ -1,0 +1,39 @@
+\documentclass[12pt]{article}
+
+\usepackage{lads}
+
+\setlength\parindent{0em}
+\setlength\parskip{1em}
+
+\title{FAQs: Vector Spaces, Span, and Basis}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\textbf{A set of orthogonal vectors are always linearly independent. Are a set of linearly independent vectors always orthogonal?}
+
+No. We proved in \S 11.5 that orthogonal vectors are always linearly independent. However, linear independence does not imply orthogonality. Consider the vectors
+\[ \Vv_1 = \vectwo{1}{0}, \quad \Vv_2 = \vectwo{1}{1} \]
+These vectors are linearly independent since there are no coefficients $c_1$ and $c_2$ such that
+\[ c_1\vectwo{1}{0} + c_2\vectwo{1}{1} = \vectwo{0}{0} \]
+In particular, we cannot cancel out the second dimension of $\Vv_2$. The vectors $\Vv_1$ and $\Vv_2$ are linearly independent, but they are not orthogonal:
+\[ \Vv_1\cdot\Vv_2 = 1\times1 + 0\times1 = 1 \ne 0 \]
+
+Going further, let's consider the vectors
+\[ \Vv_1 = \vectwo{1}{0},\quad \Vv_2=\vectwo{1}{\epsilon} \]
+for some small number $\epsilon>0$. These vectors are always linearly independent since we cannot cancel out the $\epsilon$ in the second dimension of vector $\Vv_2$. However, for small values of $\epsilon$ the two vectors are very close together as shown below.
+
+\begin{center}
+\begin{tikzpicture}[scale=3]
+	\draw [lads vector] (0,0) -- (1,0) node [below] {$\Vv_1$};
+	\draw [lads vector,color=gray] (0,0) -- (1,1) node [right] {$\Vv_2,\,\epsilon=1$};
+	\draw [lads vector,color=gray] (0,0) -- (1,0.5) node [right] {$\Vv_2,\,\epsilon=0.5$};
+	\draw [lads vector,color=gray] (0,0) -- (1,0.1) node [right] {$\Vv_2,\,\epsilon=0.1$};
+\end{tikzpicture}
+\end{center}
+
+Even vectors that are arbitrarily close together can be linearly independent.
+	
+\end{document}

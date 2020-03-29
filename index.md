@@ -49,7 +49,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 3/10: Basis vectors (11.1-11.4) [ [study guide] ](guides/StudyGuideCh11a.pdf)
 * Th 3/12: *no class*
 * *Spring Break*
-* Tu 3/24: Orthogonality (11.5) [ [video] ](https://youtu.be/j49N_s77OGM) [ [slides] ](slides/Orthogonality.pdf) [ [study guide] ](guides/StudyGuideCh11b.pdf)
+* Tu 3/24: Orthogonality (11.5) [ [video] ](https://youtu.be/j49N_s77OGM) [ [slides] ](slides/Orthogonality.pdf) [ [study guide] ](guides/StudyGuideCh11b.pdf) [ [FAQs] ](faqs/FAQCh11.pdf)
 * Th 3/26: Eigenvalues and eigenvectors [ [video] ](https://youtu.be/BZZYOEPVGsI) [ [slides] ](slides/EigenvectorsEigenvalues.pdf) [ [study guide] ](guides/StudyGuideCh12.pdf)
 * Tu 3/31: Singular value decomposition
 * **Exam 2: Th 4/2, in class**
