@@ -50,9 +50,9 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 3/12: *no class*
 * *Spring Break*
 * Tu 3/24: Orthogonality (11.5) [ [video] ](https://youtu.be/j49N_s77OGM) [ [slides] ](slides/Orthogonality.pdf) [ [study guide] ](guides/StudyGuideCh11b.pdf) [ [FAQs] ](faqs/FAQCh11.pdf)
-* Th 3/26: Eigenvalues and eigenvectors [ [video] ](https://youtu.be/BZZYOEPVGsI) [ [slides] ](slides/EigenvectorsEigenvalues.pdf) [ [study guide] ](guides/StudyGuideCh12.pdf)
-* Tu 3/31: Singular value decomposition
-* **Exam 2: Th 4/2, in class**
+* Th 3/26: Eigenvalues and eigenvectors (12) [ [video] ](https://youtu.be/BZZYOEPVGsI) [ [slides] ](slides/EigenvectorsEigenvalues.pdf) [ [study guide] ](guides/StudyGuideCh12.pdf)
+* Tu 3/31: Singular value decomposition (13) [ [video] ](https://youtu.be/I07Vo5yEssg) [ [slides] ](slides/MatrixDecompositions.pdf)
+* **Exam 2 (Chapters 8-12): Th 4/2, in class**
 * Tu 4/7: Low rank approximations
 * Th 4/9: Principal component analysis
 * Tu 4/14: Linear models

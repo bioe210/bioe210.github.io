@@ -1,0 +1,164 @@
+\documentclass{beamer}
+
+\usepackage{lads}
+\setbeamertemplate{navigation symbols}{}
+
+\title{Matrix Decompositions}
+\date{}
+\author{BIOE 210}
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}
+\frametitle{Matrix multiplication using the eigenbasis}
+
+Let's consider a square $n\times n$ matrix \VA\ with a complete set of eigenvectors $\Vv_1$, $\Vv_2$, $\ldots$, $\Vv_n$.
+
+\bigskip
+The eigenvectors form a basis (the \emph{eigenbasis}), so we can decompose another vector \Vx\ onto them.
+\[ \Vx = a_1\Vv_1 + \cdots + a_n\Vv_n \]
+
+We can use the decomposition of \Vx\ to perform matrix multiplication by \VA.
+\[ \VA\Vx = a_1\lambda_1\Vv_1 + \cdots + a_n\lambda_n\Vv_n \]
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Matrix multiplication as a multistep transformation}
+
+Using the eigenbasis we can break down matrix multiplication into three steps:
+\begin{enumerate}
+	\item Decompose \Vx\ onto the eigenbasis.
+	\item Scale each term by the respective eigenvalue.
+	\item Reassemble the decomposed vectors into the output vector.
+\end{enumerate}
+\end{frame}
+
+\begin{frame}
+\frametitle{Step 1: Decompose \Vx\ onto the eigenbasis}
+
+We already know how to decompose a vector onto a basis. First we assemble a matrix using the basis vectors as columns.
+\[ \VV = \left(\Vv_1\, \Vv_2\, \cdots\, \Vv_n\right) \]
+Then we find the coefficients \Va\ by solving the linear system
+\[ \VV\Va = \Vx \]
+This has a unique solution
+\[ \Va = \inv{\VV}\Vx \]
+\end{frame}
+
+\begin{frame}
+\frametitle{Step 2: Scale the coefficients by the eigenvalues}
+
+Multiplying by the matrix \VA\ scales each coefficient in our decomposition by the corresponding eigenvalue:
+\begin{align*}
+	a_1 &\rightarrow \lambda_1 a_1 \\
+	a_2 &\rightarrow \lambda_2 a_2 \\
+	 &\quad\vdots \\
+	a_n &\rightarrow \lambda_n a_n	
+\end{align*}
+We can scale all of the coefficients at once using a matrix with the eigenvalues along the diagonal:
+ \[ \boldsymbol{\Lambda} = \begin{pmatrix} \lambda_1 & 0 & \cdots & 0 \\ 0 & \lambda_2 & \cdots & 0 \\ \vdots & \vdots & \ddots & \vdots \\ 0 & 0 & \cdots & \lambda_n \end{pmatrix},\quad 
+ \boldsymbol{\Lambda}\Va = \begin{pmatrix} \lambda_1 a_1 \\ \lambda_2 a_2 \\ \vdots \\ \lambda_n a_n \end{pmatrix} \]
+\end{frame}
+
+\begin{frame}
+\frametitle{Step 3: Reassembling the output vector}
+
+We can also use matrix multiplication to reassemble a decomposed vector into the output vector.
+
+\bigskip
+Notice that the inverse matrix $\inv{\VV}$ decomposes a vector.
+\[ \Va = \inv{\VV}\Vx \]
+The original matrix undoes this operation since it is the inverse of the inverse.
+\begin{align*}
+	\VV\Va &= \VV\inv{\VV}\Vx \\
+		&= \Vx	
+\end{align*}
+Reassembling the decomposed vector is the same as multiplying by the matrix \VV.
+\end{frame}
+
+\begin{frame}
+\frametitle{Putting it all together}
+
+We have broken down matrix multiplication into three sequential matrix operations:
+\begin{align*}
+	\VA\Vx &= \underbrace{\left(\text{reassembly}\right)}_{\displaystyle \VV}
+			  \underbrace{\left(\text{scaling}\right)}_{\displaystyle \boldsymbol{{\Lambda}}}
+			  \underbrace{\left(\text{decomposition}\right)}_{\displaystyle \inv{\VV}}
+			  \Vx \\
+	&= \VV\boldsymbol{\Lambda}\inv{\VV}\Vx	
+\end{align*}
+
+The matrix \VA\ can therefore be decomposed into the product of three matrices, $\VV\boldsymbol{\Lambda}\inv{\VV}$.
+
+\bigskip
+This matrix decomposition is called the \emph{eigendecomposition} of \VA.
+\end{frame}
+
+\begin{frame}
+\frametitle{Limitations of the eigendecomposition}
+
+The eigendecomposition $\VA = \VV\boldsymbol{\Lambda}\inv{\VV}$ only works when the matrix \VA\ meets certain requirements:
+\begin{itemize}
+	\item \VA\ must be square.
+	\item \VA\ must have a complete set of eigenvectors.
+	\item $\inv{\VV}$ must exist.\footnote{The inverse $\inv{\VV}$ will always exist when \VA\ has a complete set of eigenvectors since the eigenvectors are linearly independent and therefore \VV\ is full rank.}
+\end{itemize}
+
+There is a more general form of matrix decomposition that relaxes these requirements.
+\end{frame}
+
+\begin{frame}
+\frametitle{The Singular Value Decomposition (SVD)}
+
+Any $m\times n$ matrix \VA\ can be decomposed into the product of three matrices
+\[ \VA = \VU\boldsymbol{\Sigma}\transpose{\VV} \]
+where
+\begin{itemize}
+	\item \VU\ is an orthogonal $m\times m$ matrix.
+	\item $\boldsymbol{\Sigma}$ is a diagonal $m\times n$ matrix with nonzero entries.
+	\item \VV\ is an orthogonal $n\times n$ matrix.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Parts of the SVD}
+
+The matrices \VU\ and \VV\ are \emph{orthogonal} matrices, meaning their columns are an orthonormal set of basis vectors. This also means that
+
+\[ \inv{\VU} = \transpose{\VU},\quad \inv{\VV} = \transpose{\VV} \]
+
+The columns in \VU\ and \VV\ are called the left and right \emph{singular vectors}. The singular vectors have similar properties to eigenvectors:
+\[ \VA\Vv_i = \sigma_i\Vu_i \]
+and
+\[ \transpose{\VA}\Vu_i = \sigma_i\Vv_i \]
+where the scalars $\sigma_i$ are the \emph{singular values}.
+\end{frame}
+
+\begin{frame}
+\frametitle{Parts of the SVD}
+
+The matrix $\boldsymbol{\Sigma}$ is a diagonal $m\times n$ matrix. The entries along the diagonal are the singular values.
+
+\bigskip
+Singular values are always non-negative. They are similar to eigenvalues for square matrices, but they are not the same.\footnote{The singular values of a square matrix are the squares of the eigenvalues of the matrix.}
+
+\bigskip
+If we arrange $\boldsymbol{\Sigma}$ such that the singular values are in descending order, the SVD of a matrix is unique.
+\end{frame}
+
+\begin{frame}
+\frametitle{Applications of the SVD}
+
+We will discuss several examples of the SVD, including:
+\begin{itemize}
+	\item Calculating the rank of a matrix.
+	\item Finding a ``pseudoinverse" of non-square matrices.
+	\item Approximating matrices with simpler matrices.
+	\item Image compression.
+\end{itemize}	
+\end{frame}
+
+
+\end{document}
