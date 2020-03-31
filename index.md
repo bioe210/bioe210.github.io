@@ -41,7 +41,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 2/11: Finite difference method (5)
 * Th 2/13: Matrix inverse (6)
 * Tu 2/18: Rank and solvability (7)
-* **Exam 1: Th 2/20, in class**
+* **Exam 1 (Chapters 1-6): Th 2/20, in class**
 * Tu 2/25: Nonlinear systems (8)
 * Th 2/27: Optimization and convexity (9.1-9.2)
 * Tu 3/3: Lines and hyperplanes (9.3-9.4)
@@ -52,7 +52,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 3/24: Orthogonality (11.5) [ [video] ](https://youtu.be/j49N_s77OGM) [ [slides] ](slides/Orthogonality.pdf) [ [study guide] ](guides/StudyGuideCh11b.pdf) [ [FAQs] ](faqs/FAQCh11.pdf)
 * Th 3/26: Eigenvalues and eigenvectors (12) [ [video] ](https://youtu.be/BZZYOEPVGsI) [ [slides] ](slides/EigenvectorsEigenvalues.pdf) [ [study guide] ](guides/StudyGuideCh12.pdf)
 * Tu 3/31: Singular value decomposition (13) [ [video] ](https://youtu.be/I07Vo5yEssg) [ [slides] ](slides/MatrixDecompositions.pdf)
-* **Exam 2 (Chapters 8-12): Th 4/2, in class**
+* **Exam 2 (Chapters 7-12): Th 4/2, in class**
 * Tu 4/7: Low rank approximations
 * Th 4/9: Principal component analysis
 * Tu 4/14: Linear models
