@@ -55,12 +55,12 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 3/26: Eigenvalues and eigenvectors (12) [ [video] ](https://youtu.be/BZZYOEPVGsI) [ [slides] ](slides/EigenvectorsEigenvalues.pdf) [ [study guide] ](guides/StudyGuideCh12.pdf)
 * Tu 3/31: Singular value decomposition (13) [ [video] ](https://youtu.be/I07Vo5yEssg) [ [slides] ](slides/MatrixDecompositions.pdf)
 * **Exam 2 (Chapters 7-12): Th 4/2, in class** [ [Correction Template] ](files/ExamCorrectionTemplate.docx)
-* Tu 4/7: Low rank approximations
-* Th 4/9: Principal component analysis
-* Tu 4/14: Linear models
-* Th 4/16: Linear regression
-* Tu 4/21: Applied linear regression
-* Th 4/23: Logistic regression
-* Tu 4/28: Sparsity and regularization
-* Th 4/30: Selected Applications I
+* Tu 4/7: Low rank approximations 1 [ [video] ](https://youtu.be/LxV-UkdxOCM) [ [slides] ](slides/LowRankApproximations1.pdf) [ [study guide] ](guides/StudyGuideSVDblank.mlx) [ [study guide solutions] ](guides/StudyGuideSVD.mlx)
+* Th 4/9: Low rank approximations 2
+* Th 4/14: Principal component analysis
+* Tu 4/16: Linear models
+* Th 4/21: Linear regression
+* Tu 4/23: Applied linear regression
+* Th 4/28: Logistic regression
+* Th 4/30: Selected Applications
 * **Exam 3: Tu 5/5, in class**

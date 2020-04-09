@@ -1,0 +1,141 @@
+\documentclass{beamer}
+
+\usepackage{lads}
+\setbeamertemplate{navigation symbols}{}
+
+\renewcommand\VSigma{\ensuremath{\boldsymbol{\Sigma}}}
+\newcommand\ub[2]{\underbrace{#1}_{\displaystyle #2}}
+
+\usepackage{xypic}
+
+\title{Low Rank Approximations: Part I}
+\date{}
+\author{BIOE 210}
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}
+\frametitle{Review}
+We can uniquely decompose a vector \Vx\ over a basis by finding the coefficients \Va\ such that
+\[ \Vx = a_1\Vv_1 + \cdots + a_n\Vv_n \]
+
+We find the coefficients by collecting the basis vectors into a matrix
+\[ \VV = \left(\Vv_1\, \Vv_2\, \cdots\, \Vv_n\right) \]
+and solving the system of equations
+\[ \VV\Va = \Vx \]
+Using \VV\ and its inverse $\inv{\VV}$ we can jump between the original vector and the coefficients of the decomposition.
+\[ \xymatrix{
+	\Vx \ar@/^/[r]^{\inv{\VV}} & \ar@/^/[l]^{\VV} \Va
+} \]	
+
+\end{frame}
+
+\newcommand\svdA{\begin{mex} a_{11} & a_{12} & a_{13} \\ a_{21} & a_{22} & a_{23} \end{mex}}
+\newcommand\svdU{\begin{mex} u_{11} & u_{12} \\ u_{21} & u_{22} \end{mex}}
+\newcommand\svdE{\begin{pmatrix} \sigma_1 & 0 & 0 \\ 0 & \sigma_2 & 0 \end{pmatrix}}
+\newcommand\svdV{\begin{mex} v_{11} & v_{12} & v_{13} \\ v_{21} & v_{22} & v_{23} \\ v_{31} & v_{32} & v_{33} \end{mex}}
+
+
+\begin{frame}
+\frametitle{The Singular Value Decomposition (SVD)}
+
+Any $m\times n$ matrix \VA\ can be decomposed into the product of three matrices
+\[ \VA = \VU\boldsymbol{\Sigma}\transpose{\VV} \]
+\begin{itemize}
+	\item \VU\ is an orthogonal $m\times m$ matrix.
+	\item $\boldsymbol{\Sigma}$ is a diagonal $m\times n$ matrix.
+	\item \VV\ is an orthogonal $n\times n$ matrix.
+\end{itemize}
+
+\pause
+Example: $2\times 3$ matrix \VA:
+	\[ \ub{\svdA}{\VA} = \ub{\svdU}{\VU} \ub{\svdE}{\VSigma} \ub{\transpose{\svdV}}{\transpose{\VV}} \]
+\end{frame}
+
+\begin{frame}
+\frametitle{What happens during matrix multiplication?}
+
+Let's talk about multiplication using a $2\times 3$ matrix \VA:
+\[ \Vy = \VA\Vx \]
+The input vector \Vx\ has three dimensions but the output vector \Vy\ has two dimensions. 
+\pause
+\begin{itemize}
+	\item What happens to the third dimension? 
+	\item Is that information lost? 
+	\item If not, how does \VA\ compress the information from \Vx\ into the smaller vector \Vy?
+	\item How many times are we going to talk about matrix multiplication?
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Every matrix has an input and output basis}
+\[ \ub{\svdA}{\VA} = \ub{\svdU}{\VU} \ub{\svdE}{\VSigma} \ub{\transpose{\svdV}}{\transpose{\VV}} \]
+
+\begin{itemize}
+	\item The columns of \VV\ are an orthonormal basis for the \emph{input space} of \VA.
+	\item The columns of \VU\ are an orthonormal basis for the \emph{output space} of \VA.
+	\item Matrix multiplication is simply a change of basis from the input to output spaces. The switch happens in the matrix \VSigma.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Step 1: Decompose \Vx\ onto the input basis \VV}
+\begin{itemize}
+	\item We want to find coefficients \Va\ such that \Vx\ can be expressed using the input basis (the columns of \VV).
+	\item We can find these coefficients using $\inv{\VV}\Vx$.
+	\item But, \VV\ is an orthogonal matrix, so $\inv{\VV} = \transpose{\VV}$. The coefficients to decompose \Vx\ onto \VV\ are simply $\transpose{\VV}\Vx$.
+\end{itemize}
+
+\pause
+\begin{align*}
+	\Vy &= \VA\Vx \\
+		&= \VU\VSigma\transpose{\VV}\Vx \\
+		&= \VU\VSigma\Va
+\end{align*}
+
+$\Va = \transpose{\VV}\Vx$ are the coefficients that decompose \Vx\ onto the input basis.
+\end{frame}
+
+\begin{frame}
+\frametitle{Step 2: Rescale the input coefficients to match the output basis}
+
+\small
+\begin{align*}
+ \ub{\svdA}{\VA}\ub{\begin{mex}x_1\\x_2\\x_3\end{mex}}{\Vx} &= \ub{\svdU}{\VU} \ub{\svdE}{\VSigma} \ub{\transpose{\svdV}}{\transpose{\VV}} \ub{\begin{mex}x_1\\x_2\\x_3\end{mex}}{\Vx} \\
+ 	 \ub{\vectwo{y_1}{y_2}}{\Vy} &= \ub{\svdU}{\VU} \ub{\svdE}{\VSigma} \ub{\begin{mex}a_1\\a_2\\a_3\end{mex}}{\Va} \\
+ 	 &= \ub{\svdU}{\VU} \ub{\begin{pmatrix}\sigma_1 a_1\\\sigma_2 a_2\end{pmatrix}}{\VSigma\Va}
+\end{align*}
+\normalsize
+\end{frame}
+
+\begin{frame}
+\frametitle{Step 3: Reconstruct \Vy\ using the output basis}
+
+\begin{align*}
+ 	 \ub{\vectwo{y_1}{y_2}}{\Vy} &= \ub{\svdU}{\VU} \ub{\begin{pmatrix}\sigma_1 a_1\\\sigma_2 a_2\end{pmatrix}}{\VSigma\Va} \\
+ 	  &= \ub{\begin{mex} \sigma_1 a_1 u_{11} + \sigma_2 a_2 u_{12} \\ \sigma_1 a_1 u_{21} + \sigma_2 a_2 u_{22} \end{mex}}{\VU\VSigma\Va} \\
+ 	 \Vy &= \sigma_1 a_1 \Vu_1 + \sigma_2 a_2 \Vu_2
+\end{align*}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{The information hierarchy in the SVD}
+
+The singular values ($\sigma_i$) map the right singular vectors ($\Vv_i$) to the left singular vectors ($\Vu_i$). This mapping happens in the matrix \VSigma. Any extra right or left singular vectors are ``zeroed-out" by \VSigma. 
+\begin{align*}
+	\Vu_1 &\xleftarrow[\phantom{\sigma_{m+1}}]{\sigma_1} \Vv_1 \\	
+		&\quad\,\vdots \\
+	\Vu_m &\xleftarrow[\phantom{\sigma_{m+1}}]{\sigma_m} \Vv_m \\	
+	\Vzero &\xleftarrow[\phantom{\sigma_{m+1}}]{0} \Vv_{m+1} \\	
+		&\quad\,\vdots \\
+	\Vzero &\xleftarrow[\phantom{\sigma_{m+1}}]{0} \Vv_n 
+\end{align*}
+\pause
+All singular vectors are unit vectors, so the largest singular values identify the most important parts of the matrix.
+
+\end{frame}
+
+\end{document}
