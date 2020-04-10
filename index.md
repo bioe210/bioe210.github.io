@@ -56,7 +56,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 3/31: Singular value decomposition (13) [ [video] ](https://youtu.be/I07Vo5yEssg) [ [slides] ](slides/MatrixDecompositions.pdf)
 * **Exam 2 (Chapters 7-12): Th 4/2, in class** [ [Correction Template] ](files/ExamCorrectionTemplate.docx)
 * Tu 4/7: Low rank approximations 1 [ [video] ](https://youtu.be/LxV-UkdxOCM) [ [slides] ](slides/LowRankApproximations1.pdf) [ [study guide] ](guides/StudyGuideSVDblank.mlx) [ [study guide solutions] ](guides/StudyGuideSVD.mlx)
-* Th 4/9: Low rank approximations 2 [ [video] ](https://youtu.be/7he-zZ9besE) [ [slides] ](slides/LowRankApproximations2.pptx) [ [MLX file] ](files/SVDcompression.mlx)
+* Th 4/9: Low rank approximations 2 [ [video] ](https://youtu.be/7he-zZ9besE) [ [slides] ](slides/LowRankApproximations2.pptx) [ [MLX file] ](files/SVDcompression.mlx) [ [sample image] ](files/scotties.jpg)
 * Th 4/14: Principal component analysis
 * Tu 4/16: Linear models
 * Th 4/21: Linear regression
