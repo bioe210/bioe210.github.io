@@ -32,6 +32,8 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Homework 3](files/Homework3.pdf) due 4/8 before 5:00pm CDT
     - [HW3_data.mat](files/HW3_data.mat)
     - [Supplemental slides for SVM in Matlab](slides/SVM_Matlab.pdf)
+  - [Homework 4](files/Homework4.mlx) due 4/22 before 5:00pm CDT
+    - [HW4_data.mat](files/HW4_data.mat)
 
 #### Schedule
 * Tu 1/21: Notation, linearity, and field axioms (0 - 1.5) [ [slides] ](slides/Lecture01.pptx)
@@ -57,7 +59,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * **Exam 2 (Chapters 7-12): Th 4/2, in class** [ [Correction Template] ](files/ExamCorrectionTemplate.docx)
 * Tu 4/7: Low rank approximations 1 [ [video] ](https://youtu.be/LxV-UkdxOCM) [ [slides] ](slides/LowRankApproximations1.pdf) [ [study guide] ](guides/StudyGuideSVDblank.mlx) [ [study guide solutions] ](guides/StudyGuideSVD.mlx)
 * Th 4/9: Low rank approximations 2 [ [video] ](https://youtu.be/7he-zZ9besE) [ [slides] ](slides/LowRankApproximations2.pptx) [ [MLX file] ](files/SVDcompression.mlx) [ [sample image] ](files/scotties.jpg)
-* Th 4/14: Principal component analysis
+* Th 4/14: Principal component analysis [ [video] ](https://youtu.be/pcoPUuxSzk4) [ [slides] ](slides/PCA.pdf) [ [PCA Infographic] ](files/PCA_infographic.pdf)
 * Tu 4/16: Linear models
 * Th 4/21: Linear regression
 * Tu 4/23: Applied linear regression
