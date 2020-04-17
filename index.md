@@ -17,6 +17,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Part III (Chapter 10)](files/LADS_Part3.pdf)
   - [Part IV (Chapter 11)](files/LADS_Part4.pdf)
   - [Part V (Chapters 12-13)](files/LADS_Part5.pdf)
+  - [Part VI (Chapter 14)](files/LADS_Part6.pdf)
 * Practice Problems
   - [Math Prelim Exam](/files/PrelimExam.pdf)
   - [Practice Problems 1](files/PracticeProblems1.pdf) [ [solutions] ](files/PracticeProblems1Solutions.pdf)
@@ -60,7 +61,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 4/7: Low rank approximations 1 [ [video] ](https://youtu.be/LxV-UkdxOCM) [ [slides] ](slides/LowRankApproximations1.pdf) [ [study guide] ](guides/StudyGuideSVDblank.mlx) [ [study guide solutions] ](guides/StudyGuideSVD.mlx)
 * Th 4/9: Low rank approximations 2 [ [video] ](https://youtu.be/7he-zZ9besE) [ [slides] ](slides/LowRankApproximations2.pptx) [ [MLX file] ](files/SVDcompression.mlx) [ [sample image] ](files/scotties.jpg)
 * Th 4/14: Principal component analysis [ [video] ](https://youtu.be/pcoPUuxSzk4) [ [slides] ](slides/PCA.pdf) [ [PCA Infographic] ](files/PCA_infographic.pdf)
-* Tu 4/16: Linear models
+* Tu 4/16: Linear models [ [video] ](https://youtu.be/rvWNRWVcIlE) [ [slides] ](slides/LinearModels.pdf)
 * Th 4/21: Linear regression
 * Tu 4/23: Applied linear regression
 * Th 4/28: Logistic regression
