@@ -63,7 +63,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 4/14: Principal component analysis [ [video] ](https://youtu.be/pcoPUuxSzk4) [ [slides] ](slides/PCA.pdf) [ [PCA Infographic] ](files/PCA_infographic.pdf)
 * Tu 4/16: Linear models (14) [ [video] ](https://youtu.be/rvWNRWVcIlE) [ [slides] ](slides/LinearModels.pdf)
 * Th 4/21: Applied Linear Regression 1 [ [video] ](https://youtu.be/Sv_8mrM2bXE) [ [MLX file] ](files/Applied_Linear_Regression.mlx) [ [dataset] ](files/hospital_records.mat)
-* Tu 4/23: Applied Linear Regression 2
+* Tu 4/23: Applied Linear Regression 2 [ [video] ](https://youtu.be/Wj_qD22a6Lg) [ [slides] ](slides/Interactions.pdf) 
 * Th 4/28: Logistic regression
 * Th 4/30: Selected Applications
 * **Exam 3: Tu 5/5, in class**

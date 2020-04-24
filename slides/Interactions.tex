@@ -1,0 +1,103 @@
+\documentclass{beamer}
+
+\usepackage{lads}
+\setbeamertemplate{navigation symbols}{}
+
+\title{Interactions in Linear Models}
+\date{BIOE 210}
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}
+\frametitle{What is an interaction?}	
+
+Imagine we're modeling the response ($y$) from two input variables, $x_1$ and $x_2$. The simplest model is
+
+\[ y = \beta_1x_1 + \beta_2x_2 + \epsilon \]
+
+\pause
+The coefficient $\beta_1$ measures the effect of $x_1$ and $\beta_2$ measures the effect of $x_2$. These effects are \textbf{independent}.
+
+\bigskip
+\pause
+What is there is another effect that depends on both $x_1$ and $x_2$? This is an \textbf{interaction} between $x_1$ and $x_2$.
+\end{frame}
+
+\begin{frame}
+\frametitle{How do we model interactions?}
+
+We model the interaction of $x_1$ and $x_2$ using the product of these variables.
+\[ y = \beta_1x_1 + \beta_2x_2 + \beta_{12}x_1x_2 + \epsilon \]
+
+The coefficient $\beta_{12}$ is the effect size of the interaction.
+
+\pause
+\bigskip
+Why do we multiply $x_1$ and $x_2$? There are at least two ways to interpret this term.
+\end{frame}
+
+\begin{frame}
+\frametitle{The coded factor interpretation}
+
+Often we set up design matrices using \textbf{coded variables}. If we're testing the variable at two levels, we code the variable as ``on/off"~($\{0,1\}$) or ``low/high"~($\{-1,+1\}$).
+
+\pause
+\bigskip
+\begin{columns}
+\begin{column}{0.55\textwidth}
+on/off $\rightarrow$ interaction when both ``on"
+\begin{center}
+\begin{tabular}{cc|c}
+	$x_1$ & $x_2$ & $x_1x_2$ \\
+	\hline
+	0 & 0 & 0 \\
+	0 & 1 & 0 \\
+	1 & 0 & 0 \\
+	1 & 1 & 1
+\end{tabular}
+\end{center}
+\end{column}
+
+\pause
+\begin{column}{0.5\textwidth}
+high/low $\rightarrow$ interaction when both ``high" or both ``low"
+\begin{center}
+\begin{tabular}{cc|c}
+	$x_1$ & $x_2$ & $x_1x_2$ \\
+	\hline
+	$-1$ & $-1$ & $+1$ \\
+	$-1$ & $+1$ & $-1$ \\
+	$+1$ & $-1$ & $-1$ \\
+	$+1$ & $+1$ & $+1$
+\end{tabular}
+\end{center}
+\end{column}
+\end{columns}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{The augmented slope interpretation}
+
+We can also interpret the interaction as one variable changing the effect of the other variable.
+
+\begin{align*}
+	y &= \beta_1x_1 + \beta_2(x_1)x_2 + \epsilon \\
+	 &= \beta_1x_1 + (\beta_2 + \beta_{12}x_1)x_2 + \epsilon \\
+	 &= \beta_1x_1 + \beta_2x_2 + \beta_{12}x_1x_2 + \epsilon
+\end{align*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Things to remember about interactions}
+
+\begin{itemize}
+	\item Interaction are modeled as the product of variables.
+	\item The interaction effect is ``above and beyond" the independent effects (synergy/super-additivity, antagonism/sub-additivity).
+	\item Higher-order interactions are possible (e.g. $x_1x_2x_3$), but these are rare.
+\end{itemize}
+\end{frame}
+
+\end{document}
