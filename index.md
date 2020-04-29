@@ -18,6 +18,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Part IV (Chapter 11)](files/LADS_Part4.pdf)
   - [Part V (Chapters 12-13)](files/LADS_Part5.pdf)
   - [Part VI (Chapter 14)](files/LADS_Part6.pdf)
+  - [Part VII (Chapter 15)](files/LADS_Part7.pdf)
 * Practice Problems
   - [Math Prelim Exam](/files/PrelimExam.pdf)
   - [Practice Problems 1](files/PracticeProblems1.pdf) [ [solutions] ](files/PracticeProblems1Solutions.pdf)
@@ -66,6 +67,6 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 4/16: Linear models (14) [ [video] ](https://youtu.be/rvWNRWVcIlE) [ [slides] ](slides/LinearModels.pdf)
 * Th 4/21: Applied Linear Regression 1 [ [video] ](https://youtu.be/Sv_8mrM2bXE) [ [MLX file] ](files/Applied_Linear_Regression.mlx) [ [dataset] ](files/hospital_records.mat)
 * Tu 4/23: Applied Linear Regression 2 [ [video] ](https://youtu.be/Wj_qD22a6Lg) [ [slides] ](slides/Interactions.pdf)
-* Th 4/28: Logistic regression
-* Th 4/30: Selected Applications
+* Th 4/28: Logistic regression (15) [ [video] ](https://youtu.be/jvfUR4iCBpM) [ [slides] ](slides/LogisticRegression.pdf)
+* Th 4/30: Artificial Neural Networks
 * **Exam 3: Tu 5/5, in class**
