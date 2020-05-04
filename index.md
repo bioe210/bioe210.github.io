@@ -68,5 +68,5 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 4/21: Applied Linear Regression 1 [ [video] ](https://youtu.be/Sv_8mrM2bXE) [ [MLX file] ](files/Applied_Linear_Regression.mlx) [ [dataset] ](files/hospital_records.mat)
 * Tu 4/23: Applied Linear Regression 2 [ [video] ](https://youtu.be/Wj_qD22a6Lg) [ [slides] ](slides/Interactions.pdf)
 * Th 4/28: Logistic regression (15) [ [video] ](https://youtu.be/jvfUR4iCBpM) [ [slides] ](slides/LogisticRegression.pdf)
-* Th 4/30: Artificial Neural Networks
-* **Exam 3: Tu 5/5, in class**
+* Tu 5/5: Artificial Neural Networks
+* **Exam 3: Tu 5/5, in class** [ [Focus Areas] ](guides/Exam3Topics.pdf)
