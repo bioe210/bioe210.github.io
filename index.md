@@ -38,6 +38,7 @@ Linear Algebra for Biomedical Data Science</h2>
     - [HW4_data.mat](files/HW4_data.mat)
   - [Homework 5](files/Homework5.mlx) due 5/6 before 5:00pm CDT
     - [HW5_data.mat](files/HW5_data.mat)
+    - [Bonferroni Corrections](faqs/bonferroni.pdf)
 
 #### Schedule
 * Tu 1/21: Notation, linearity, and field axioms (0 - 1.5) [ [slides] ](slides/Lecture01.pptx)
