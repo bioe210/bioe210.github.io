@@ -69,4 +69,4 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 4/23: Applied Linear Regression 2 [ [video] ](https://youtu.be/Wj_qD22a6Lg) [ [slides] ](slides/Interactions.pdf)
 * Th 4/28: Logistic regression (15) [ [video] ](https://youtu.be/jvfUR4iCBpM) [ [slides] ](slides/LogisticRegression.pdf)
 * Tu 5/5: Artificial Neural Networks
-* **Exam 3: Tu 5/5, in class** [ [Focus Areas] ](guides/Exam3Topics.pdf)
+* **Exam 3: Tu 5/5, in class** [ [Focus Areas] ](guides/Exam3Topics.pdf) [-](files/exam3_pca.pdf)
