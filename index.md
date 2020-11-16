@@ -5,12 +5,12 @@ layout: main-layout
 <link href="style.css" rel="stylesheet">
 
 <center>
-<h2>BIOE 210: Spring 2020<br>
+<h2>BIOE 210: Spring 2021<br>
 Linear Algebra for Biomedical Data Science</h2>
 </center>
 
 #### Course Materials
-* [Syllabus](files/BIOE210_Sp20_Syllabus.pdf)
+* [Syllabus](files/BIOE210_Sp21_Syllabus.pdf)
 * *Linear Algebra: An Introduction to Data Science*
   - [Part I (Chapters 0-7)](files/LADS_Part1.pdf)
   - [Part II (Chapters 8-9)](files/LADS_Part2.pdf)
@@ -21,54 +21,36 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Part VII (Chapter 15)](files/LADS_Part7.pdf)
 * Practice Problems
   - [Math Prelim Exam](/files/PrelimExam.pdf)
-  - [Practice Problems 1](files/PracticeProblems1.pdf) [ [solutions] ](files/PracticeProblems1Solutions.pdf)
-  - [Practice Exam 1](files/PracticeExam1.pdf) [ [solutions] ](files/PracticeExam1Solutions.pdf)
-  - [Practice Exam 2 Solutions](files/PracticeExam2Solutions.pdf)
 * Assignments
   - [Homework Submission Guide](files/BIOE210_Homework_Submission_Guide.pdf)
-  - [Homework 1](files/Homework1.pdf) due 2/19 before 9:00am
-    - [bioe210_test_suite.m](files/bioe210_test_suite.m)
-    - [lasso_data.mat](files/lasso_data.mat)
-  - [Homework 2](files/Homework2.pdf) due 3/6 before 9:00am
-    - [Solutions](files/Homework2Solutions.pdf)
-  - [Homework 3](files/Homework3.pdf) due 4/8 before 5:00pm CDT
-    - [HW3_data.mat](files/HW3_data.mat)
-    - [Supplemental slides for SVM in Matlab](slides/SVM_Matlab.pdf)
-  - [Homework 4](files/Homework4.mlx) due 4/22 before 5:00pm CDT
-    - [HW4_data.mat](files/HW4_data.mat)
-  - [Homework 5](files/Homework5.mlx) due 5/6 before 5:00pm CDT
-    - [HW5_data.mat](files/HW5_data.mat)
-    - [Bonferroni Corrections](faqs/bonferroni.pdf)
-  - [Homework 6](files/Homework6.mlx) due 5/15 before 5:00pm CDT
 
 #### Schedule
-* Tu 1/21: Notation, linearity, and field axioms (0 - 1.5) [ [slides] ](slides/Lecture01.pptx)
-* Th 1/23: *no class*
-* Tu 1/28: Math Review
-* Th 1/30: Norms, dot products, and multiplication (1.6 - 2.1)
-* Tu 2/4: Matrix multiplication, rotation, and translation (2.2 - 3.3)
-* Th 2/6: Linear systems and Gaussian Elimination (4)
-* Tu 2/11: Finite difference method (5)
-* Th 2/13: Matrix inverse (6)
-* Tu 2/18: Rank and solvability (7)
-* **Exam 1 (Chapters 1-6): Th 2/20, in class**
-* Tu 2/25: Nonlinear systems (8)
-* Th 2/27: Optimization and convexity (9.1-9.2)
-* Tu 3/3: Lines and hyperplanes (9.3-9.4)
-* Th 3/5: Support vector machines (10) [ [study guide] ](guides/StudyGuideCh10.pdf) [ [FAQs] ](faqs/FAQCh10.pdf)
-* Tu 3/10: Basis vectors (11.1-11.4) [ [study guide] ](guides/StudyGuideCh11a.pdf)
-* Th 3/12: *no class*
-* *Spring Break*
-* Tu 3/24: Orthogonality (11.5) [ [video] ](https://youtu.be/j49N_s77OGM) [ [slides] ](slides/Orthogonality.pdf) [ [study guide] ](guides/StudyGuideCh11b.pdf) [ [FAQs] ](faqs/FAQCh11.pdf)
-* Th 3/26: Eigenvalues and eigenvectors (12) [ [video] ](https://youtu.be/BZZYOEPVGsI) [ [slides] ](slides/EigenvectorsEigenvalues.pdf) [ [study guide] ](guides/StudyGuideCh12.pdf)
-* Tu 3/31: Singular value decomposition (13) [ [video] ](https://youtu.be/I07Vo5yEssg) [ [slides] ](slides/MatrixDecompositions.pdf)
-* **Exam 2 (Chapters 7-12): Th 4/2, in class** [ [Correction Template] ](files/ExamCorrectionTemplate.docx)
-* Tu 4/7: Low rank approximations 1 [ [video] ](https://youtu.be/LxV-UkdxOCM) [ [slides] ](slides/LowRankApproximations1.pdf) [ [study guide] ](guides/StudyGuideSVDblank.mlx) [ [study guide solutions] ](guides/StudyGuideSVD.mlx)
-* Th 4/9: Low rank approximations 2 [ [video] ](https://youtu.be/7he-zZ9besE) [ [slides] ](slides/LowRankApproximations2.pptx) [ [MLX file] ](files/SVDcompression.mlx) [ [sample image] ](files/scotties.jpg)
-* Th 4/14: Principal component analysis [ [video] ](https://youtu.be/pcoPUuxSzk4) [ [slides] ](slides/PCA.pdf) [ [PCA Infographic] ](files/PCA_infographic.pdf)
-* Tu 4/16: Linear models (14) [ [video] ](https://youtu.be/rvWNRWVcIlE) [ [slides] ](slides/LinearModels.pdf)
-* Th 4/21: Applied Linear Regression 1 [ [video] ](https://youtu.be/Sv_8mrM2bXE) [ [MLX file] ](files/Applied_Linear_Regression.mlx) [ [dataset] ](files/hospital_records.mat)
-* Tu 4/23: Applied Linear Regression 2 [ [video] ](https://youtu.be/Wj_qD22a6Lg) [ [slides] ](slides/Interactions.pdf)
-* Th 4/28: Logistic regression (15) [ [video] ](https://youtu.be/jvfUR4iCBpM) [ [slides] ](slides/LogisticRegression.pdf)
-* Tu 5/5: Artificial Neural Networks [ [video] ](https://youtu.be/oZ0tWNHGJlI) [ [slides] ](slides/NeuralNetworks.pdf)
-* **Exam 3: Tu 5/5, in class** [ [Focus Areas] ](guides/Exam3Topics.pdf)
+* Tu 1/26: Notation, linearity, and field axioms (0 - 1.5) [ [slides] ](slides/Lecture01.pptx)
+* Th 1/28: Norms, dot products, and multiplication (1.6 - 2.1)
+* Tu 2/2: Matrix multiplication, rotation, and translation (2.2 - 3.3)
+* Th 2/4: Linear systems and Gaussian Elimination (4)
+* Tu 2/9: Finite difference method (5)
+* Th 2/11: Matrix inverse (6)
+* Tu 2/16: Rank and solvability (7)
+* Th 2/18: Linear models I
+* Tu 2/23: **Exam 1**
+* Th 2/25: Linear models II
+* Tu 3/2: Nonlinear systems and root finding
+* Th 3/4: Optimization, convexity, and gradient descent
+* Tu 3/9: Logistic regression
+* Th 3/11: Regularized regression
+* Tu 3/16: Lines and hyperplanes
+* Th 3/18: Support Vector Machines and cross validation
+* Tu 3/23: Stochastic Gradient Descent
+* Th 3/25: **Exam 2**
+* Tu 3/30: Artificial Neural Networks I: Perceptrons
+* Th 4/1: Artificial Neural Networks II: Backpropagation
+* Tu 4/6: Artificial Neural Networks III: Training
+* Th 4/8: Basis vectors and orthogonality
+* Tu 4/13: *Break: no class*
+* Th 4/15: Eigenvalues and eigenvectors
+* Tu 4/20: Singular Value Decomposition
+* Th 4/22: Low rank approximations
+* Tu 4/27: Principal Component Analysis [ [PCA Infographic] ](files/PCA_infographic.pdf)
+* Th 4/29: Selected applications
+* Tu 5/4: **Exam 3**
