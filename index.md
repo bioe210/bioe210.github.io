@@ -11,21 +11,18 @@ Linear Algebra for Biomedical Data Science</h2>
 
 #### Course Materials
 * [Syllabus](files/BIOE210_Sp21_Syllabus.pdf)
-* *Linear Algebra: An Introduction to Data Science*
-  - [Part I (Chapters 0-7)](files/LADS_Part1.pdf)
-  - [Part II (Chapters 8-9)](files/LADS_Part2.pdf)
-  - [Part III (Chapter 10)](files/LADS_Part3.pdf)
-  - [Part IV (Chapter 11)](files/LADS_Part4.pdf)
-  - [Part V (Chapters 12-13)](files/LADS_Part5.pdf)
-  - [Part VI (Chapter 14)](files/LADS_Part6.pdf)
-  - [Part VII (Chapter 15)](files/LADS_Part7.pdf)
+* *Linear Algebra: Foundations of Machine Learning*
+  - [Part I](files/LA_Part1.pdf)
+  - [Part II](files/LA_Part2.pdf)
+  - [Part III](files/LA_Part3.pdf)
+
 * Practice Problems
   - [Math Prelim Exam](/files/PrelimExam.pdf)
 * Assignments
   - [Homework Submission Guide](files/BIOE210_Homework_Submission_Guide.pdf)
 
 #### Schedule
-* Tu 1/26: Notation, linearity, and field axioms (0 - 1.5) [ [slides] ](slides/Lecture01.pptx)
+* Tu 1/26: Notation, linearity, and field axioms (0 - 1.5)
 * Th 1/28: Norms, dot products, and multiplication (1.6 - 2.1)
 * Tu 2/2: Matrix multiplication, rotation, and translation (2.2 - 3.3)
 * Th 2/4: Linear systems and Gaussian Elimination (4)
