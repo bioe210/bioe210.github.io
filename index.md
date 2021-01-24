@@ -12,9 +12,7 @@ Linear Algebra for Biomedical Data Science</h2>
 #### Course Materials
 * [Syllabus](files/BIOE210_Sp21_Syllabus.pdf)
 * *Linear Algebra: Foundations of Machine Learning*
-  - [Part I](files/LA_Part1.pdf)
-  - [Part II](files/LA_Part2.pdf)
-  - [Part III](files/LA_Part3.pdf)
+  - [Part I](files/LA_Part1.pdf) (Chapters 0-9)
 
 * Practice Problems
   - [Math Prelim Exam](/files/PrelimExam.pdf)
