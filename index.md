@@ -27,9 +27,9 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 2/9: Finite difference method (5)
 * Th 2/11: Matrix inverse (6)
 * Tu 2/16: Rank and solvability (7)
-* Th 2/18: Linear models I
+* Th 2/18: Linear models I (8)
 * Tu 2/23: **Exam 1**
-* Th 2/25: Linear models II
+* Th 2/25: Linear models II (9)
 * Tu 3/2: Nonlinear systems and root finding
 * Th 3/4: Optimization, convexity, and gradient descent
 * Tu 3/9: Logistic regression
