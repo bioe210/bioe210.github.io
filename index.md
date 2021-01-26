@@ -17,6 +17,9 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Math Prelim Exam](/files/PrelimExam.pdf)
 * Assignments
   - [Homework Submission Guide](files/BIOE210_Homework_Submission_Guide.pdf)
+  - [Homework 1](files/Homework1.pdf) due Friday, 2/5 before 5:00pm
+    - [bioe210_test_suite.m](files/bioe210_test_suite.m)
+    - [lasso_data.mat](files/lass_data.mat)
 
 #### Schedule
 * Tu 1/26: Notation, linearity, and field axioms (0 - 1.5)
@@ -28,7 +31,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 2/16: Rank and solvability (7)
 * Th 2/18: Linear models I (8)
 * Tu 2/23: **Exam 1**
-* Th 2/25: Linear models II (9)
+* Th 2/25: Linear models II (9) [[Matlab Workbook]](files/Applied_Linear_Regression.mlx)
 * Tu 3/2: Nonlinear systems and root finding
 * Th 3/4: Optimization, convexity, and gradient descent
 * Tu 3/9: Logistic regression
