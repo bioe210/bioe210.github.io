@@ -24,7 +24,7 @@ Linear Algebra for Biomedical Data Science</h2>
 
 #### Schedule
 * Tu 1/26: Notation, linearity, and field axioms (0 - 1.5) [[slides]](slides/01_slides.pptx) [[notes]](slides/01_notes.pdf)
-* Th 1/28: Norms, dot products, and multiplication (1.6 - 2.1)
+* Th 1/28: Norms, dot products, and multiplication (1.6 - 2.1) [[notes]](slides/02_notes.pdf)
 * Tu 2/2: Matrix multiplication, rotation, and translation (2.2 - 3.3)
 * Th 2/4: Linear systems and Gaussian Elimination (4)
 * Tu 2/9: Finite difference method (5)
