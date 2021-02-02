@@ -12,5 +12,6 @@ layout: main-layout
 ## Part 1
 
 * **Page 24**. Figure 3.3 should be
-
-![Figure 3.3](files/Figure3-3.png)
+<center>
+<img src="files/Figure3-3.png" alt="Figure 3.3" width="200"/>
+</center>
