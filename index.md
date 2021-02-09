@@ -27,7 +27,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 1/28: Norms, dot products, and multiplication (1.6 - 2.1) [[notes]](slides/02_notes.pdf)
 * Tu 2/2: Matrix multiplication, rotation, and translation (2.2 - 3.3) [[notes]](slides/03_notes.pdf)
 * Th 2/4: Linear systems and Gaussian Elimination (4)
-* Tu 2/9: Finite difference method (5)
+* Tu 2/9: Finite difference method (5) [[notes]](slides/05_notes.pdf)
 * Th 2/11: Matrix inverse (6)
 * Tu 2/16: Rank and solvability (7)
 * Th 2/18: Linear models I (8)
