@@ -33,7 +33,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 2/9: Finite difference method (5) [[notes]](slides/05_notes.pdf)
 * Th 2/11: Matrix inverse (6) [[notes]](slides/06_notes.pdf)
 * Tu 2/16: Rank and solvability (7) [[notes]](slides/07_notes.pdf)
-* Th 2/18: Linear models I (8)
+* Th 2/18: Linear models I (8) [[notes]](slides/08_notes.pdf)
 * Tu 2/23: **Exam 1**
 * Th 2/25: Linear models II (9) [[Matlab Workbook]](files/Applied_Linear_Regression.mlx)
 * Tu 3/2: Nonlinear systems and root finding
