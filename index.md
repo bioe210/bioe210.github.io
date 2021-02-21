@@ -18,7 +18,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Part I](guides/PracticeProblemsPart1.pdf) Chapters 0-7 [[solutions]](guides/PracticeProblemsPart1_Solutions.pdf)
 * Assignments
   - [Homework Submission Guide](files/BIOE210_Homework_Submission_Guide.pdf)
-  - [Homework 1](files/Homework1.pdf) due <font color="red">Tuesday 2/9</font> before 5:00pm
+  - [Homework 1](files/Homework1.pdf) due Tuesday 2/9 before 5:00pm
     - [bioe210_test_suite.m](files/bioe210_test_suite.m)
     - [lasso_data.mat](files/lasso_data.mat)
     - [Solutions](files/Homework1_Solutions.pdf)
