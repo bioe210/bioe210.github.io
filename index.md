@@ -21,7 +21,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Homework 1](files/Homework1.pdf) due Tuesday 2/9 before 5:00pm
     - [bioe210_test_suite.m](files/bioe210_test_suite.m)
     - [lasso_data.mat](files/lasso_data.mat)
-    - [Solutions](files/Homework1_Solutions.pdf)
+    - [Solutions](files/Homework1_Solutions.pdf) (updated 2/24)
   - [Homework 2](files/Homework2.pdf) due Friday 2/19 before 5:00pm
     - [Solutions](files/Homework2_Solutions.pdf)
   - Upcoming homework due dates: 3/5, 3/19, 4/16, and 4/30.
