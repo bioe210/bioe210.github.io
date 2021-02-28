@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  24 FEB 2021 22:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  24 FEB 2021 22:31
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Interactions.tex
-(./Interactions.tex
+**LinearModels.tex
+(./LinearModels.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
@@ -1180,55 +1180,55 @@ Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 )
 \mynum=\skip77
 )
-LaTeX Font Info:    Try loading font information for T1+qhv on input line 9.
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 10.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 10.29301pt on input line 9.
- (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/Interactions.aux)
-\openout1 = `Interactions.aux'.
+(Font)              scaled to size 10.29301pt on input line 10.
+ (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/LinearModels.aux)
+\openout1 = `LinearModels.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 9.
-LaTeX Font Info:    Try loading font information for OML+npxmi on input line 9.
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 10.
+LaTeX Font Info:    Try loading font information for OML+npxmi on input line 10.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 9.
-LaTeX Font Info:    Try loading font information for U+npxexa on input line 9.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 10.
+LaTeX Font Info:    Try loading font information for U+npxexa on input line 10.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/unpxexa.fd
 File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 9.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 10.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 9.
-LaTeX Font Info:    Try loading font information for LMS+npxsy on input line 9.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 10.
+LaTeX Font Info:    Try loading font information for LMS+npxsy on input line 10.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
 File: lmsnpxsy.fd 2016/08/13 Fontinst v1.933 font definitions for LMS/npxsy.
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 9.
-LaTeX Font Info:    Try loading font information for LMX+npxexx on input line 9.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 10.
+LaTeX Font Info:    Try loading font information for LMX+npxexx on input line 10.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
 File: lmxnpxexx.fd 2016/08/13 Fontinst v1.933 font definitions for LMX/npxexx.
 )
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    ... okay on input line 10.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1290,7 +1290,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box108
-Package hyperref Info: Link coloring OFF on input line 9.
+Package hyperref Info: Link coloring OFF on input line 10.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1298,55 +1298,55 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count366
 )
-LaTeX Info: Redefining \ref on input line 9.
-LaTeX Info: Redefining \pageref on input line 9.
-LaTeX Info: Redefining \nameref on input line 9.
- (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/Interactions.out) (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/Interactions.out)
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
+ (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/LinearModels.out) (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/LinearModels.out)
 \@outlinefile=\write6
-\openout6 = `Interactions.out'.
+\openout6 = `LinearModels.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/zpltlf/m/n --> OT1/cmss/m/n on input line 9.
+(Font)                  OT1/zpltlf/m/n --> OT1/cmss/m/n on input line 10.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/zpltlf/b/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/zpltlf/b/n --> OT1/cmss/bx/n on input line 10.
 \symnumbers=\mathgroup10
 \sympureletters=\mathgroup11
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/zpltlf/m/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 9.
+(Font)                  OT1/cmss/m/n --> T1/zpltlf/m/n on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/zpltlf/b/n --> T1/qhv/bx/n on input line 9.
+(Font)                  OT1/zpltlf/b/n --> T1/qhv/bx/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/zpltlf/b/n --> T1/qhv/bx/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 9.
+(Font)                  OT1/zpltlf/b/n --> T1/qhv/bx/n on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  T1/qhv/m/n --> T1/qhv/m/n on input line 9.
+(Font)                  T1/qhv/m/n --> T1/qhv/m/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/qhv/b/n --> T1/qhv/m/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 9.
+(Font)                  T1/qhv/b/n --> T1/qhv/m/n on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/zpltlf/m/it --> T1/qhv/m/it on input line 9.
+(Font)                  OT1/zpltlf/m/it --> T1/qhv/m/it on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/zpltlf/b/it --> T1/qhv/m/it on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 9.
+(Font)                  OT1/zpltlf/b/it --> T1/qhv/m/it on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  T1/npxtt/m/n --> T1/npxtt/m/n on input line 9.
+(Font)                  T1/npxtt/m/n --> T1/npxtt/m/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/npxtt/b/n --> T1/npxtt/m/n on input line 9.
+(Font)                  T1/npxtt/b/n --> T1/npxtt/m/n on input line 10.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/qhv/m/n --> T1/qhv/bx/n on input line 9.
+(Font)                  T1/qhv/m/n --> T1/qhv/bx/n on input line 10.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/qhv/m/it --> T1/qhv/bx/it on input line 9.
+(Font)                  T1/qhv/m/it --> T1/qhv/bx/it on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/zpltlf/bx/n on input line 9.
+(Font)                  OT1/cmss/bx/n --> T1/zpltlf/bx/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/qhv/bx/n --> T1/qhv/bx/n on input line 9.
+(Font)                  T1/qhv/bx/n --> T1/qhv/bx/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/qhv/m/n --> T1/qhv/bx/n on input line 9.
+(Font)                  T1/qhv/m/n --> T1/qhv/bx/n on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/qhv/m/it --> T1/qhv/bx/it on input line 9.
+(Font)                  T1/qhv/m/it --> T1/qhv/bx/it on input line 10.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/npxtt/m/n --> T1/npxtt/bx/n on input line 9.
+(Font)                  T1/npxtt/m/n --> T1/npxtt/bx/n on input line 10.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -1364,75 +1364,114 @@ Dictionary: translator-theorem-dictionary, Language: English
 \c@mv@boldtabular=\count368
 \symgns@font=\mathgroup12
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/qhv/m/n --> TS1/qhv/bx/n on input line 9.
-Package gensymb Info: Math companion symbols declared on input line 9.
-LaTeX Info: Redefining \degree on input line 9.
-LaTeX Info: Redefining \celsius on input line 9.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 9.
-LaTeX Info: Redefining \ohm on input line 9.
-Package gensymb Info: Using \textohm for \ohm on input line 9.
-Package gensymb Info: Using \textmu for \micro on input line 9.
- (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/Interactions.nav)
+(Font)                  TS1/qhv/m/n --> TS1/qhv/bx/n on input line 10.
+Package gensymb Info: Math companion symbols declared on input line 10.
+LaTeX Info: Redefining \degree on input line 10.
+LaTeX Info: Redefining \celsius on input line 10.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 10.
+LaTeX Info: Redefining \ohm on input line 10.
+Package gensymb Info: Using \textohm for \ohm on input line 10.
+Package gensymb Info: Using \textmu for \micro on input line 10.
+ (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/LinearModels.nav)
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 5.64001pt on input line 9.
+(Font)              scaled to size 5.64001pt on input line 10.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 13.53603pt on input line 11.
+(Font)              scaled to size 13.53603pt on input line 12.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 7.52002pt on input line 11.
+(Font)              scaled to size 7.52002pt on input line 12.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 3.76001pt on input line 11.
+(Font)              scaled to size 3.76001pt on input line 12.
  [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 26.
+LaTeX Font Info:    Try loading font information for U+msa on input line 23.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 26.
+LaTeX Font Info:    Try loading font information for U+msb on input line 23.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+npxmia on input line 26.
+LaTeX Font Info:    Try loading font information for U+npxmia on input line 23.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
-LaTeX Font Info:    Try loading font information for U+npxsym on input line 26.
+LaTeX Font Info:    Try loading font information for U+npxsym on input line 23.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
-LaTeX Font Info:    Try loading font information for U+npxsyc on input line 26.
+LaTeX Font Info:    Try loading font information for U+npxsyc on input line 23.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 5.73401pt on input line 26.
+(Font)              scaled to size 5.73401pt on input line 23.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 10.29301pt on input line 26.
+(Font)              scaled to size 10.29301pt on input line 23.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 7.52002pt on input line 26.
+(Font)              scaled to size 7.52002pt on input line 23.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 5.73401pt on input line 26.
-LaTeX Font Info:    Try loading font information for TS1+qhv on input line 26.
+(Font)              scaled to size 5.73401pt on input line 23.
+LaTeX Font Info:    Try loading font information for TS1+qhv on input line 23.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/tex-gyre/ts1qhv.fd
 File: ts1qhv.fd 2009/09/25 v1.2 font definition file for TS1/qhv
 )
 LaTeX Font Info:    Font shape `TS1/qhv/m/n' will be
-(Font)              scaled to size 10.29301pt on input line 26.
+(Font)              scaled to size 10.29301pt on input line 23.
 LaTeX Font Info:    Font shape `TS1/qhv/m/n' will be
-(Font)              scaled to size 7.52002pt on input line 26.
+(Font)              scaled to size 7.52002pt on input line 23.
 LaTeX Font Info:    Font shape `TS1/qhv/m/n' will be
-(Font)              scaled to size 5.73401pt on input line 26.
-LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/qhv/b/n' tried instead on input line 26.
-LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 10.29301pt on input line 26.
+(Font)              scaled to size 5.73401pt on input line 23.
  [2
 
 ] [3
 
-] [4
+]
+LaTeX Font Info:    Try loading font information for T1+zpltlf on input line 52.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/t1zpltlf.fd
+File: t1zpltlf.fd 2015/01/17 v1.0 font definition file for T1/zpl/tlf
+)
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 52.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 52.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 6.1pt on input line 52.
+<simple_lin_scatter.png, id=34, 301.125pt x 264.99pt>
+File: simple_lin_scatter.png Graphic file (type png)
+<use simple_lin_scatter.png>
+Package pdftex.def Info: simple_lin_scatter.png  used on input line 52.
+(pdftex.def)             Requested size: 215.10974pt x 189.29659pt.
+LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
+(Font)              scaled to size 13.53603pt on input line 52.
+ [4
 
-] [5
+ <./simple_lin_scatter.png (PNG copy)>]
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 93.
+
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 93.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 10.5pt on input line 93.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 7.9pt on input line 93.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 9.87003pt on input line 93.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 7.42601pt on input line 93.
+LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
+(Font)              scaled to size 9.87003pt on input line 93.
+LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
+(Font)              scaled to size 7.42601pt on input line 93.
+LaTeX Font Info:    Font shape `TS1/qhv/m/n' will be
+(Font)              scaled to size 13.53603pt on input line 93.
+LaTeX Font Info:    Font shape `TS1/qhv/m/n' will be
+(Font)              scaled to size 9.87003pt on input line 93.
+LaTeX Font Info:    Font shape `TS1/qhv/m/n' will be
+(Font)              scaled to size 7.42601pt on input line 93.
+[5
 
 ] [6
 
@@ -1446,37 +1485,109 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 
 ] [11
 
+] [12
+
+] [13
+
+] [14
+
+]
+Overfull \vbox (17.2417pt too high) detected at line 160
+ []
+
+[15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
+] [20
+
+]
+LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 209.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 10.29301pt on input line 209.
+LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <8> not available
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 209.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 7.52002pt on input line 209.
+LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <6.1> not available
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 209.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 5.73401pt on input line 209.
+ [21
+
+] [22
+
+] [23
+
+] [24
+
+] [25
+
+] [26
+
+] [27
+
+] [28
+
+] [29
+
+] [30
+
+] [31
+
+] [32
+
+] [33
+
+] [34
+
+] [35
+
+] [36
+
 ]
 \tf@nav=\write7
-\openout7 = `Interactions.nav'.
+\openout7 = `LinearModels.nav'.
 
 \tf@toc=\write8
-\openout8 = `Interactions.toc'.
+\openout8 = `LinearModels.toc'.
 
 \tf@snm=\write9
-\openout9 = `Interactions.snm'.
+\openout9 = `LinearModels.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 103.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
- (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/Interactions.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
-Package rerunfilecheck Info: File `Interactions.out' has not changed.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 326.
+ (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/LinearModels.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 326.
+Package rerunfilecheck Info: File `LinearModels.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.45pt have occurred.
+
  ) 
 Here is how much of TeX's memory you used:
- 34054 strings out of 492616
- 657945 string characters out of 6129482
- 844817 words of memory out of 5000000
- 37344 multiletter control sequences out of 15000+600000
- 579761 words of font info for 80 fonts, out of 8000000 for 9000
+ 34246 strings out of 492616
+ 660699 string characters out of 6129482
+ 847817 words of memory out of 5000000
+ 37468 multiletter control sequences out of 15000+600000
+ 635388 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,11n,81p,779b,598s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/newpx/tgpdiff.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvri.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/pxfonts/rpxmi.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newpx/zplx-regular.pfb>
-Output written on "/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/Interactions.pdf" (11 pages, 78781 bytes).
+ 58i,13n,81p,779b,645s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/newpx/tgpdiff.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvri.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/pxfonts/rpxmi.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newpx/zplx-regular.pfb>
+Output written on "/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/slides/.texpadtmp/LinearModels.pdf" (36 pages, 144967 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 266 PDF objects out of 1000 (max. 8388607)
+ 208 compressed objects within 3 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

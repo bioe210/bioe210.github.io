@@ -39,7 +39,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 2/16: Rank and solvability (7) [[notes]](slides/07_notes.pdf)
 * Th 2/18: Linear models I (8) [[notes]](slides/08_notes.pdf)
 * Tu 2/23: **Exam 1** (chapters 0-7)
-* Th 2/25: Linear models II (9) [[Matlab Workbook]](files/Applied_Linear_Regression.mlx)
+* Th 2/25: Linear models II (9) [[slides]](slides/LinearModels2.pdf) [[Matlab Workbook]](files/Applied_Linear_Regression.mlx)
 * Tu 3/2: Nonlinear systems and root finding
 * Th 3/4: Optimization, convexity, and gradient descent
 * Tu 3/9: Logistic regression
