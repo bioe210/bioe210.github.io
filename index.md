@@ -25,7 +25,7 @@ Linear Algebra for Biomedical Data Science</h2>
     - [Solutions](files/Homework1_Solutions.pdf) (updated 2/24)
   - [Homework 2](files/Homework2.pdf) due Friday 2/19 before 5:00pm
     - [Solutions](files/Homework2_Solutions.pdf)
-  - [Homework 3](files/Homework3.pdf) due Friday 3/5 before 5:00pm
+  - [Homework 3](files/Homework3.pdf) due <font color="red">Monday 3/8</font> before 5:00pm
     - [MLX File](files/Homework3.mlx)
     - [HW3_data.mat](files/HW3_data.mat)
   - Upcoming homework due dates: 3/19, 4/16, and 4/30.
@@ -41,7 +41,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 2/18: Linear models I (8) [[notes]](slides/08_notes.pdf)
 * Tu 2/23: **Exam 1** (chapters 0-7)
 * Th 2/25: Linear models II (9) [[slides]](slides/LinearModels2.pdf) [[Matlab Workbook]](files/Applied_Linear_Regression.mlx)
-* Tu 3/2: Nonlinear systems and root finding (10)
+* Tu 3/2: Nonlinear systems and root finding (10) [[notes]](slides/10_notes.pdf)
 * Th 3/4: Optimization, convexity, and gradient descent (11,12)
 * Tu 3/9: Logistic regression (13)
 * Th 3/11: Cross validation and Regularized regression (14)
