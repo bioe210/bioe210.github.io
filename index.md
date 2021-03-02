@@ -41,12 +41,12 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 2/18: Linear models I (8) [[notes]](slides/08_notes.pdf)
 * Tu 2/23: **Exam 1** (chapters 0-7)
 * Th 2/25: Linear models II (9) [[slides]](slides/LinearModels2.pdf) [[Matlab Workbook]](files/Applied_Linear_Regression.mlx)
-* Tu 3/2: Nonlinear systems and root finding
-* Th 3/4: Optimization, convexity, and gradient descent
-* Tu 3/9: Logistic regression
-* Th 3/11: Regularized regression
-* Tu 3/16: Lines and hyperplanes
-* Th 3/18: Support Vector Machines and cross validation
+* Tu 3/2: Nonlinear systems and root finding (10)
+* Th 3/4: Optimization, convexity, and gradient descent (11,12)
+* Tu 3/9: Logistic regression (13)
+* Th 3/11: Cross validation and Regularized regression (14)
+* Tu 3/16: Lines and hyperplanes (15)
+* Th 3/18: Support Vector Machines (16)
 * Tu 3/23: Stochastic Gradient Descent
 * Th 3/25: **Exam 2**
 * Tu 3/30: Artificial Neural Networks I: Perceptrons
