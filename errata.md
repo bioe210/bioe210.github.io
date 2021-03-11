@@ -34,4 +34,4 @@ with the zero vector, not a scalar zero, on the righthand side.
 
 ## Part 2
 
-* **Page 103**. The gradient descent update for $$x^{(1)}$$ uses $$\alpha=0.1$$; this should be $$0.01$$.
+* **Page 103**. In the example near the bottom of the page, the gradient descent update for $$x^{(1)}$$ uses $$\alpha=0.1$$; this should be $$0.01$$. The calculations are correct.

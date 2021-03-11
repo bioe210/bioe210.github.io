@@ -14,7 +14,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * *Linear Algebra: Foundations of Machine Learning*
   - [Part I](files/LA_Part1.pdf) (Chapters 0-9)
   - [Part IIa](files/LA_Part2a.pdf) (Chapters 10-16)  
-  - [[Errata]](errata.md)
+  - [Errata](errata.md)
 * Practice Problems
   - [Math Prelim Exam](/files/PrelimExam.pdf)
   - [Part I](guides/PracticeProblemsPart1.pdf) Chapters 0-7 [[solutions]](guides/PracticeProblemsPart1_Solutions.pdf)
