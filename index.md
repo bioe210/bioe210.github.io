@@ -47,8 +47,8 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 3/2: Nonlinear systems and root finding (10) [[notes]](slides/10_notes.pdf)
 * Th 3/4: Optimization and convexity (11) [[notes]](slides/11_notes.pdf)
 * Tu 3/9: Gradient descent and logistic regression (12,13) [[notes]](slides/12_notes.pdf)
-* Th 3/11: Cross validation and Regularized regression (14) [[notes]](slides/13_notes.pdf)
-* Tu 3/16: Lines and hyperplanes (15)
+* Th 3/11: Cross validation, bias, and variance (14.1-14.4) [[notes]](slides/13_notes.pdf)
+* Tu 3/16: Regularization; lines and hyperplanes (14.5,15)
 * Th 3/18: Support Vector Machines (16)
 * Tu 3/23: Stochastic Gradient Descent
 * Th 3/25: **Exam 2**
