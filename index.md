@@ -50,10 +50,10 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 3/11: Cross validation, bias, and variance (14.1-14.4) [[notes]](slides/13_notes.pdf)
 * Tu 3/16: Regularization; lines and hyperplanes (14.5,15) [[notes]](slides/14_notes.pdf) [[slides]](slides/lasso.pdf)
 * Th 3/18: Support Vector Machines (16)
-* Tu 3/23: Stochastic Gradient Descent
+* Tu 3/23: Review
 * Th 3/25: **Exam 2**
 * Tu 3/30: Artificial Neural Networks I: Perceptrons
-* Th 4/1: Artificial Neural Networks II: Backpropagation
+* Th 4/1: Artificial Neural Networks II: SGD and Backpropagation
 * Tu 4/6: Artificial Neural Networks III: Training
 * Th 4/8: Basis vectors and orthogonality
 * Tu 4/13: *Break: no class*
