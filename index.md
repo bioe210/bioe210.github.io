@@ -18,6 +18,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Practice Problems
   - [Math Prelim Exam](/files/PrelimExam.pdf)
   - [Part I](guides/PracticeProblemsPart1.pdf) Chapters 0-7 [[solutions]](guides/PracticeProblemsPart1_Solutions.pdf)
+  - [Part I](guides/PracticeProblemsPart2.pdf) Chapters 8-16 [[solutions]](guides/PracticeProblemsPart2_Solutions.pdf)
 * Assignments
   - [Homework Submission Guide](files/BIOE210_Homework_Submission_Guide.pdf)
   - [Homework 1](files/Homework1.pdf) due Tuesday 2/9 before 5:00pm
