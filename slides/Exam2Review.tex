@@ -299,7 +299,7 @@ Why log odds? Two reasons:
 \begin{enumerate}
 	\item The goal of model fitting is to find parameters that minimize the \emph{loss}.
 	\item For example, the quadratic loss for a model is
-	\[ L(\boldsymbol{\beta}) = \sum_{i=1}^n\left( y^\text{pred}(\boldsymbol{\beta}) - y^\text{true} \right)^2 \]
+	\[ L(\boldsymbol{\beta}) = \sum_{i=1}^n\left( y_i^\text{pred}(\boldsymbol{\beta}) - y_i^\text{true} \right)^2 \]
 	\pause
 	\item We substitute the model in for $y^\text{pred}$ and minimize, usually by finding roots of the gradient with respect to $\boldsymbol{\beta}$. 
 \end{enumerate}
