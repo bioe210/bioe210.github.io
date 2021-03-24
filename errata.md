@@ -12,7 +12,7 @@ layout: main-layout
 <i>Linear Algebra: Foundations of Machine Learning</i></h2>
 </center>
 
-*Last update: 3/10/2021.*
+*Last update: 3/24/2021.*
 
 ## Part 1
 
@@ -33,5 +33,7 @@ with the zero vector, not a scalar zero, on the righthand side.
 </center>
 
 ## Part 2
+
+* **Page 85**. The equation at the bottom should be $$ g(x) = (x-1)^3 - 8 = 0 $$.
 
 * **Page 103**. In the example near the bottom of the page, the gradient descent update for $$x^{(1)}$$ uses $$\alpha=0.1$$; this should be $$0.01$$. The calculations are correct.
