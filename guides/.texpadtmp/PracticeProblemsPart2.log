@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  18 MAR 2021 22:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 MAR 2021 17:11
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -958,7 +958,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  68i,7n,64p,858b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/NewPXMI_gnu.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/zplr.pfb>
-Output written on "/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/PracticeProblemsPart2.pdf" (12 pages, 71531 bytes).
+Output written on "/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/PracticeProblemsPart2.pdf" (12 pages, 71261 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream
