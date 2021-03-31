@@ -55,9 +55,9 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 3/18: Support Vector Machines (16) [[notes]](slides/16_notes.pdf)
 * Tu 3/23: Review (submit suggestions on Gradescope by noon on 3/21)
 * Th 3/25: **Exam 2** [[Review slides]](slides/Exam2Review.pdf)
-* Tu 3/30: Artificial Neural Networks I: Perceptrons
-* Th 4/1: Artificial Neural Networks II: SGD and Backpropagation
-* Tu 4/6: Artificial Neural Networks III: Training
+* Tu 3/30: Artificial Neural Networks I: Perceptrons [[slides]](slides/NeuralNetworks1.pdf)
+* Th 4/1: Artificial Neural Networks II: Multi-layer Perceptrons & Backpropagation
+* Tu 4/6: Artificial Neural Networks III: SGD
 * Th 4/8: Basis vectors and orthogonality
 * Tu 4/13: *Break: no class*
 * Th 4/15: Eigenvalues and eigenvectors

@@ -1,0 +1,71 @@
+\documentclass{article}
+
+
+\usepackage{tikz}
+\usepackage{ifthen}
+\usepackage{skak}
+
+\begin{document}
+  \begin{tikzpicture}[domain=-10:10,xscale=0.1,yscale=2] 
+    \draw[dotted] (-10.2,1) -- (10.2,1) node[right] {output $=1$}; 
+    \draw[dotted] (-10.2,0) -- (10.2,0) node[right] {output $=0$};
+    \draw[color=red,thick] plot (\x,{1 / (1 + exp(-\x))});
+    \draw node[below] {$z$}; 
+  \end{tikzpicture}
+ 
+\vspace{1in} 
+ 
+
+\newcommand\layerskip{1}
+\newcommand\neuronskip{1}
+\begin{tikzpicture}
+	\tikzstyle{neuron-input}=[circle,fill=blue,minimum size=0.5cm]
+	\tikzstyle{neuron-hidden}=[circle,fill=black,minimum size=0.5cm]
+	\tikzstyle{neuron-output}=[circle,fill=orange,minimum size=0.5cm]
+	
+	\def\mynodes{3/input,4/hidden,4/hidden,4/hidden,4/hidden,5/output}
+	
+	
+	\foreach \n / \cls [count=\lyr] in \mynodes {
+		\pgfmathsetmacro\ystart{(\n-1)*\neuronskip/2}
+		\foreach \nd in {1,...,\n} {
+			\pgfmathsetmacro\x{(\lyr-1)*\layerskip}
+			\pgfmathsetmacro\y{\ystart - (\nd-1)*\neuronskip}
+			\node[neuron-\cls] (N-\lyr-\nd) at (\x,\y) {};
+		}
+	}
+	
+	\foreach \n / \cls [count=\lyr, remember=\n as \prevn] in \mynodes {
+		\ifthenelse{\lyr > 1}{
+	  		\foreach \np in {1,...,\prevn} {
+	  			\foreach \nc in {1,...,\n} {
+	  					\pgfmathtruncatemacro\prevlyr{\lyr-1}
+	  					\draw (N-\prevlyr-\np) -- (N-\lyr-\nc);
+	  			}
+	  		}
+  		}{}
+	}
+	
+\end{tikzpicture}
+
+\clearpage
+\newgame
+
+\mainline{1.e4 e5}
+\mainline{2.Nf3 Nc6}
+\newline
+\showboard
+\vspace{0.1in}
+\mainline{3.d4}
+\newline
+\showboard
+%\mainline{Bb4}
+%\showboard
+
+\newgame
+\mainline{1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Nf6 7. Qb3 Qe7 8.
+Nc3 c6 9. Bg5 b5 10. Nxb5 cxb5 11. Bxb5+ Nbd7 12. O-O-O Rd8 13. Rxd7 Rxd7 14.
+Rd1 Qe6 15. Bxd7+ Nxd7 16. Qb8+ Nxb8 17. Rd8}
+\showboard
+  
+\end{document}
