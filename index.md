@@ -57,7 +57,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 3/25: **Exam 2** [[Review slides]](slides/Exam2Review.pdf)
 * Tu 3/30: Artificial Neural Networks I: Perceptrons [[slides]](slides/NeuralNetworks1.pdf)
 * Th 4/1: Artificial Neural Networks II: Multi-layer Perceptrons [[slides]](slides/NeuralNetworks2.pdf)
-* Tu 4/6: Artificial Neural Networks III: Backpropagation & SGD
+* Tu 4/6: Artificial Neural Networks III: Backpropagation & SGD [[slides]](slides/NeuralNetworks3.pdf)
 * Th 4/8: Basis vectors and orthogonality
 * Tu 4/13: *Break: no class*
 * Th 4/15: Eigenvalues and eigenvectors
