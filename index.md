@@ -13,7 +13,8 @@ Linear Algebra for Biomedical Data Science</h2>
 * [Syllabus](files/BIOE210_Sp21_Syllabus.pdf)
 * *Linear Algebra: Foundations of Machine Learning*
   - [Part I](files/LA_Part1.pdf) (Chapters 0-9)
-  - [Part IIa](files/LA_Part2a.pdf) (Chapters 10-16)  
+  - [Part IIa](files/LA_Part2a.pdf) (Chapters 10-16)
+  - [Part III](files/LA_Part3.pdf) (Chapters 17-19) 
   - [Errata](errata.md)
 * Practice Problems
   - [Math Prelim Exam](/files/PrelimExam.pdf)
@@ -58,10 +59,10 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 3/30: Artificial Neural Networks I: Perceptrons [[slides]](slides/NeuralNetworks1.pdf)
 * Th 4/1: Artificial Neural Networks II: Multi-layer Perceptrons [[slides]](slides/NeuralNetworks2.pdf)
 * Tu 4/6: Artificial Neural Networks III: Backpropagation & SGD [[slides]](slides/NeuralNetworks3.pdf)
-* Th 4/8: Basis vectors and orthogonality
+* Th 4/8: Basis vectors and orthogonality (17)
 * Tu 4/13: *Break: no class*
-* Th 4/15: Eigenvalues and eigenvectors
-* Tu 4/20: Singular Value Decomposition
+* Th 4/15: Eigenvalues and eigenvectors (18)
+* Tu 4/20: Singular Value Decomposition (19)
 * Th 4/22: Low rank approximations
 * Tu 4/27: Principal Component Analysis [ [PCA Infographic] ](files/PCA_infographic.pdf)
 * Th 4/29: Selected applications
