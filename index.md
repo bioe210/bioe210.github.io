@@ -35,7 +35,7 @@ Linear Algebra for Biomedical Data Science</h2>
     - [Solutions](files/Homework3_Solutions.pdf)
   - [Homework 4](files/Homework4.pdf) due Monday 3/22 before 5:00pm
     - [cas9.mat](files/cas9.mat)
-  - Upcoming homework due dates: 4/16 and 4/30.
+  - Upcoming homework due dates: 4/26 and 5/10.
 
 #### Schedule
 * Tu 1/26: Notation, linearity, and field axioms (0 - 1.5) [[slides]](slides/01_slides.pptx) [[notes]](slides/01_notes.pdf)
