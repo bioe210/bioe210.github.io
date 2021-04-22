@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 APR 2021 08:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 APR 2021 08:49
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**StudyGuideCh11b.tex
-(./StudyGuideCh11b.tex
+**StudyGuideEigen.tex
+(./StudyGuideEigen.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (/Users/jensen/Library/texmf/tex/latex/pajarticle.cls
 Document Class: pajarticle 
@@ -692,153 +692,191 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \ar@cellbox=\box108
 )
 \mynum=\skip83
-) (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideCh11b.aux)
-\openout1 = `StudyGuideCh11b.aux'.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count318
+\lst@gtempboxa=\box109
+\lst@token=\toks45
+\lst@length=\count319
+\lst@currlwidth=\dimen294
+\lst@column=\count320
+\lst@pos=\count321
+\lst@lostspace=\dimen295
+\lst@width=\dimen296
+\lst@newlines=\count322
+\lst@lineno=\count323
+\lst@maxwidth=\dimen297
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count324
+\lst@skipnumbers=\count325
+\lst@framebox=\box110
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideEigen.aux)
+\openout1 = `StudyGuideEigen.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 10.
-LaTeX Font Info:    Trying to load font information for OML+npxmi on input line 10.
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 11.
+LaTeX Font Info:    Trying to load font information for OML+npxmi on input line 11.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 10.
-LaTeX Font Info:    Trying to load font information for U+npxexa on input line 10.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 11.
+LaTeX Font Info:    Trying to load font information for U+npxexa on input line 11.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxexa.fd
 File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 10.
-LaTeX Font Info:    Trying to load font information for LMS+npxsy on input line 10.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 11.
+LaTeX Font Info:    Trying to load font information for LMS+npxsy on input line 11.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
 File: lmsnpxsy.fd 2016/07/04 Fontinst v1.933 font definitions for LMS/npxsy.
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 10.
-LaTeX Font Info:    Trying to load font information for LMX+npxexx on input line 10.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 11.
+LaTeX Font Info:    Trying to load font information for LMX+npxexx on input line 11.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
 File: lmxnpxexx.fd 2016/07/04 Fontinst v1.933 font definitions for LMX/npxexx.
 )
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    ... okay on input line 11.
  (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count318
-\scratchdimen=\dimen294
-\scratchbox=\box109
-\nofMPsegments=\count319
-\nofMParguments=\count320
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count321
-\MPscratchDim=\dimen295
-\MPnumerator=\count322
-\makeMPintoPDFobject=\count323
-\everyMPtoPDFconversion=\toks46
+\scratchcounter=\count326
+\scratchdimen=\dimen298
+\scratchbox=\box111
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen299
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks47
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 10.
-\c@mv@tabular=\count324
-\c@mv@boldtabular=\count325
+LaTeX Info: Redefining \selectfont on input line 11.
+\c@mv@tabular=\count332
+\c@mv@boldtabular=\count333
  ABD: EveryShipout initializing macros
 \symgns@font=\mathgroup10
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/zpltlf/m/n --> TS1/zpltlf/b/n on input line 10.
-Package gensymb Info: Math companion symbols declared on input line 10.
-LaTeX Info: Redefining \degree on input line 10.
-LaTeX Info: Redefining \celsius on input line 10.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 10.
-LaTeX Info: Redefining \ohm on input line 10.
-Package gensymb Info: Using \textohm for \ohm on input line 10.
-Package gensymb Info: Using \textmu for \micro on input line 10.
+(Font)                  TS1/zpltlf/m/n --> TS1/zpltlf/b/n on input line 11.
+Package gensymb Info: Math companion symbols declared on input line 11.
+LaTeX Info: Redefining \degree on input line 11.
+LaTeX Info: Redefining \celsius on input line 11.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 11.
+LaTeX Info: Redefining \ohm on input line 11.
+Package gensymb Info: Using \textohm for \ohm on input line 11.
+Package gensymb Info: Using \textmu for \micro on input line 11.
+\c@lstlisting=\count334
 LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 14.
+(Font)              scaled to size 17.28pt on input line 18.
 LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 14.
-
-Overfull \hbox (12.05348pt too wide) in paragraph at lines 14--14
-[][]  
- []
-
+(Font)              scaled to size 17.28pt on input line 18.
 LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
-LaTeX Font Info:    Trying to load font information for OT1+zpltlf on input line 26.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
+(Font)              scaled to size 12.0pt on input line 40.
+LaTeX Font Info:    Trying to load font information for OT1+zpltlf on input line 40.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
 File: ot1zpltlf.fd 2015/01/17 v1.0 font definition file for OT1/zpl/tlf
 )
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 8.8pt on input line 26.
+(Font)              scaled to size 8.8pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 6.6pt on input line 26.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+(Font)              scaled to size 6.6pt on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+npxmia on input line 26.
+LaTeX Font Info:    Trying to load font information for U+npxmia on input line 40.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
-LaTeX Font Info:    Trying to load font information for U+npxsym on input line 26.
+LaTeX Font Info:    Trying to load font information for U+npxsym on input line 40.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 26.
+LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 40.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
-LaTeX Font Info:    Trying to load font information for TS1+zpltlf on input line 26.
+LaTeX Font Info:    Trying to load font information for TS1+zpltlf on input line 40.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 File: ts1zpltlf.fd 2015/01/18 v1.0 fd file for TS1/zpltlf
 )
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 40.
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 8.8pt on input line 26.
+(Font)              scaled to size 8.8pt on input line 40.
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 6.6pt on input line 26.
+(Font)              scaled to size 6.6pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/zpltlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/zpltlf/b/n' will be
-(Font)              scaled to size 8.8pt on input line 26.
+(Font)              scaled to size 8.8pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/zpltlf/b/n' will be
-(Font)              scaled to size 6.6pt on input line 26.
-LaTeX Font Info:    Font shape `T1/zpltlf/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 123.
+(Font)              scaled to size 6.6pt on input line 40.
+LaTeX Font Info:    Font shape `T1/zpltlf/b/sc' will be
+(Font)              scaled to size 12.0pt on input line 108.
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for T1+npxtt on input line 108.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/t1npxtt.fd
+File: t1npxtt.fd 2000/12/14 v1.0
+)
+LaTeX Font Info:    Font shape `T1/npxtt/b/n' in size <12> not available
+(Font)              Font shape `T1/npxtt/bx/n' tried instead on input line 108.
+LaTeX Font Info:    Font shape `T1/npxtt/bx/n' will be
+(Font)              scaled to size 12.0pt on input line 108.
+ [2] [3
 
-] [3] [4] [5] [6] (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideCh11b.aux) ) 
+]
+LaTeX Font Info:    Font shape `T1/zpltlf/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 114.
+ [4]
+<figures/codeQ12_x.png, id=30, 254.9525pt x 268.00125pt>
+File: figures/codeQ12_x.png Graphic file (type png)
+<use figures/codeQ12_x.png>
+Package pdftex.def Info: figures/codeQ12_x.png  used on input line 114.
+(pdftex.def)             Requested size: 180.68297pt x 189.93051pt.
+LaTeX Font Info:    Font shape `T1/npxtt/m/n' will be
+(Font)              scaled to size 12.0pt on input line 114.
+ [5 <./figures/codeQ12_x.png>] [6] (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideEigen.aux) ) 
 Here is how much of TeX's memory you used:
- 18024 strings out of 480608
- 341492 string characters out of 5903631
- 717436 words of memory out of 5000000
- 33515 multiletter control sequences out of 15000+600000
- 568038 words of font info for 81 fonts, out of 8000000 for 9000
+ 19404 strings out of 480608
+ 361337 string characters out of 5903631
+ 714436 words of memory out of 5000000
+ 34876 multiletter control sequences out of 15000+600000
+ 571087 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,13n,69p,874b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/zplr.pfb>
-Output written on "/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideCh11b.pdf" (6 pages, 80571 bytes).
+ 68i,13n,69p,895b,232s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/NewPXMI_gnu.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/zplr.pfb>
+Output written on "/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideEigen.pdf" (6 pages, 90960 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

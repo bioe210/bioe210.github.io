@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 APR 2021 08:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 APR 2021 08:47
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**StudyGuideCh11b.tex
-(./StudyGuideCh11b.tex
+**StudyGuideBasis.tex
+(./StudyGuideBasis.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (/Users/jensen/Library/texmf/tex/latex/pajarticle.cls
 Document Class: pajarticle 
@@ -692,8 +692,8 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \ar@cellbox=\box108
 )
 \mynum=\skip83
-) (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideCh11b.aux)
-\openout1 = `StudyGuideCh11b.aux'.
+) (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideBasis.aux)
+\openout1 = `StudyGuideBasis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 10.
 LaTeX Font Info:    Trying to load font information for OML+npxmi on input line 10.
@@ -766,79 +766,80 @@ LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 14.
 LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
 (Font)              scaled to size 17.28pt on input line 14.
-
-Overfull \hbox (12.05348pt too wide) in paragraph at lines 14--14
-[][]  
- []
-
 LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
-LaTeX Font Info:    Trying to load font information for OT1+zpltlf on input line 26.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
+(Font)              scaled to size 12.0pt on input line 34.
+LaTeX Font Info:    Trying to load font information for OT1+zpltlf on input line 34.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
 File: ot1zpltlf.fd 2015/01/17 v1.0 font definition file for OT1/zpl/tlf
 )
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 34.
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 8.8pt on input line 26.
+(Font)              scaled to size 8.8pt on input line 34.
 LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
-(Font)              scaled to size 6.6pt on input line 26.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+(Font)              scaled to size 6.6pt on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+npxmia on input line 26.
+LaTeX Font Info:    Trying to load font information for U+npxmia on input line 34.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
-LaTeX Font Info:    Trying to load font information for U+npxsym on input line 26.
+LaTeX Font Info:    Trying to load font information for U+npxsym on input line 34.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 26.
+LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 34.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
-LaTeX Font Info:    Trying to load font information for TS1+zpltlf on input line 26.
+LaTeX Font Info:    Trying to load font information for TS1+zpltlf on input line 34.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 File: ts1zpltlf.fd 2015/01/18 v1.0 fd file for TS1/zpltlf
 )
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 34.
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 8.8pt on input line 26.
+(Font)              scaled to size 8.8pt on input line 34.
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 6.6pt on input line 26.
+(Font)              scaled to size 6.6pt on input line 34.
 LaTeX Font Info:    Font shape `OT1/zpltlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 34.
 LaTeX Font Info:    Font shape `OT1/zpltlf/b/n' will be
-(Font)              scaled to size 8.8pt on input line 26.
+(Font)              scaled to size 8.8pt on input line 34.
 LaTeX Font Info:    Font shape `OT1/zpltlf/b/n' will be
-(Font)              scaled to size 6.6pt on input line 26.
-LaTeX Font Info:    Font shape `T1/zpltlf/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 123.
+(Font)              scaled to size 6.6pt on input line 34.
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/zpltlf/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 174.
+ [2]
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 8.8pt on input line 179.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 6.6pt on input line 179.
+ [3
 
-] [3] [4] [5] [6] (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideCh11b.aux) ) 
+] [4] [5] [6] [7] [8] [9] (/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideBasis.aux) ) 
 Here is how much of TeX's memory you used:
- 18024 strings out of 480608
- 341492 string characters out of 5903631
+ 18028 strings out of 480608
+ 341539 string characters out of 5903631
  717436 words of memory out of 5000000
- 33515 multiletter control sequences out of 15000+600000
- 568038 words of font info for 81 fonts, out of 8000000 for 9000
+ 33517 multiletter control sequences out of 15000+600000
+ 574678 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,13n,69p,874b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/zplr.pfb>
-Output written on "/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideCh11b.pdf" (6 pages, 80571 bytes).
+ 68i,18n,69p,874b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newpx/zplr.pfb>
+Output written on "/Users/jensen/Dropbox/teaching/_2021 BIOE 210/bioe210.github.io/guides/.texpadtmp/StudyGuideBasis.pdf" (9 pages, 86219 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
