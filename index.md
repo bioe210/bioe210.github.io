@@ -40,6 +40,7 @@ Linear Algebra for Biomedical Data Science</h2>
     - [Solutions](files/Homework3_Solutions.pdf)
   - [Homework 4](files/Homework4.pdf) due Monday 3/22 before 5:00pm
     - [cas9.mat](files/cas9.mat)
+    - [Solutions](files/Homework4_Solutions.pdf)
   - [Homework 5](files/Homework5.pdf) due Wednesday 4/28 before 5:00pm
     - [HW5_data.mat](files/HW5_data.mat)
   - Upcoming homework due dates: 5/10.
