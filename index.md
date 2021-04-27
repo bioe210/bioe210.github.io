@@ -21,6 +21,11 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Part I](guides/PracticeProblemsPart1.pdf) Chapters 0-7 [[solutions]](guides/PracticeProblemsPart1_Solutions.pdf)
   - [Part IIa](guides/PracticeProblemsPart2.pdf) Chapters 8-16 [[solutions]](guides/PracticeProblemsPart2_Solutions.pdf)
     - Updated 3/24 with a correction to problem 13.4.
+  - Part III
+    - [SVM](guides/StudyGuideSVM.pdf)
+    - [Vectors, Span, and Basis](guides/StudyGuideBasis.pdf)
+    - [Eigenvectors/Eigenvalues](guides/StudyGuideEigen.pdf)
+    - [SVD](guides/StudyGuideSVDblank.mlx) [[solutions]](StudyGuideSVD.mlx)
 * Assignments
   - [Homework Submission Guide](files/BIOE210_Homework_Submission_Guide.pdf)
   - [Homework 1](files/Homework1.pdf) due Tuesday 2/9 before 5:00pm
