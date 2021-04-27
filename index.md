@@ -72,6 +72,6 @@ Linear Algebra for Biomedical Data Science</h2>
 * Th 4/15: *no class*
 * Tu 4/20: Eigenvalues and eigenvectors (18) [[slides]](slides/EigenvectorsEigenvalues.pdf) [[notes]](slides/18_notes.pdf)
 * Th 4/22: Singular Value Decomposition (19) [[slides]](slides/MatrixDecompositions.pdf)
-* Tu 4/27: Low rank approximations
+* Tu 4/27: Low rank approximations [[slides]](slides/LowRankApproximations1.pdf)
 * Th 4/29: Principal Component Analysis [ [PCA Infographic] ](files/PCA_infographic.pdf)
 * Tu 5/4: **Exam 3**
