@@ -73,5 +73,6 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 4/20: Eigenvalues and eigenvectors (18) [[slides]](slides/EigenvectorsEigenvalues.pdf) [[notes]](slides/18_notes.pdf)
 * Th 4/22: Singular Value Decomposition (19) [[slides]](slides/MatrixDecompositions.pdf)
 * Tu 4/27: Low rank approximations [[slides]](slides/LowRankApproximations1.pdf)
-* Th 4/29: Principal Component Analysis [ [PCA Infographic] ](files/PCA_infographic.pdf)
+* Th 4/29: Principal Component Analysis [[slides]](slides/PCA.pdf) [[PCA Infographic]](files/PCA_infographic.pdf)
 * Tu 5/4: Review session. **Exam 3 opens at 9:30am; closes at 5:00pm on 5/5.**
+  - Submit review session suggestions on Gradescope by noon on 4/31.
