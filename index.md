@@ -63,7 +63,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Tu 3/9: Gradient descent and logistic regression (12,13) [[notes]](slides/12_notes.pdf)
 * Th 3/11: Cross validation, bias, and variance (14.1-14.4) [[notes]](slides/13_notes.pdf)
 * Tu 3/16: Regularization; lines and hyperplanes (14.5,15) [[notes]](slides/14_notes.pdf) [[slides]](slides/lasso.pdf)
-* Th 3/18: Support Vector Machines (16) [[notes]](slides/16_notes.pdf)
+* Th 3/18: Support Vector Machines (16) [[notes]](slides/16_notes.pdf) [[FAQ about classifying]](faqs/FAQSVM.pdf)
 * Tu 3/23: Review (submit suggestions on Gradescope by noon on 3/21)
 * Th 3/25: **Exam 2** [[Review slides]](slides/Exam2Review.pdf)
 * Tu 3/30: Artificial Neural Networks I: Perceptrons [[slides]](slides/NeuralNetworks1.pdf)
