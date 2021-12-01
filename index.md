@@ -5,7 +5,7 @@ layout: main-layout
 <link href="style.css" rel="stylesheet">
 
 <center>
-<h2>BIOE 210: Spring 2021<br>
+<h2>BIOE 210: Spring 2022<br>
 Linear Algebra for Biomedical Data Science</h2>
 </center>
 
