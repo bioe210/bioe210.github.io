@@ -12,28 +12,4 @@ layout: main-layout
 <i>Linear Algebra: Foundations of Machine Learning</i></h2>
 </center>
 
-*Last update: 3/24/2021.*
-
-## Part 1
-
-* **Page 24**. Figure 3.3 should be
-<center>
-<img src="files/Figure3-3.png" alt="Figure 3.3" width="250"/>
-</center>
-* **Page 41**. Figure 5.3 should be
-<center>
-<img src="files/Figure5-3.png" alt="Figure 5.3" width="250"/>
-</center>
-* **Page 52**. The equation
-<center>
-$$ c_1\mathbf{x}_1 + c_2\mathbf{x}_2 + \cdots +  c_n\mathbf{x}_n = 0 $$
-should be
-$$ c_1\mathbf{x}_1 + c_2\mathbf{x}_2 + \cdots +  c_n\mathbf{x}_n = \mathbf{0} $$
-with the zero vector, not a scalar zero, on the righthand side.
-</center>
-
-## Part 2
-
-* **Page 85**. The equation at the bottom should be $$ g(x) = (x-1)^3 - 8 = 0 $$.
-
-* **Page 103**. In the example near the bottom of the page, the gradient descent update for $$x^{(1)}$$ uses $$\alpha=0.1$$; this should be $$0.01$$. The calculations are correct.
+*Last update: 12/1/2021.*
