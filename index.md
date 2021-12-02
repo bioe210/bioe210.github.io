@@ -19,23 +19,25 @@ Linear Algebra for Biomedical Data Science</h2>
 #### Schedule
 
 * Week 1
-  - Tu 1/18: Notation, linearity, and field axioms
-  - Th 1/20: Norms, dot products, and multiplication
-  - Homework 1: Due Monday, 1/24 before 5pm
+  - Tu 1/18: Notation, linearity, and field axioms (0 - 1.5)
+  - Th 1/20: Norms, dot products, and multiplication (1.6 - 1.8)
+  - [Homework 1](files/Homework01.pdf): Due Monday, 1/24 before 5pm
+    - [bioe210_test_suite.m](files/bioe210_test_suite.m)
+    - [lasso_data.mat](files/lasso_data.mat)
 * Week 2
-  - Tu 1/25: Matrix multiplication, rotation, and translation
-  - Th 1/27: Linear systems and Gaussian Elimination
+  - Tu 1/25: Matrix multiplication (2)
+  - Th 1/27: Rotation and translation (3)
   - Homework 2: Due Monday, 1/31 before 5pm
 * Week 3
-  - Tu 2/1: Gaussian Elimination and computational complexity
-  - Th 2/3: Finite difference method
+  - Tu 2/1: Gaussian Elimination (4)
+  - Th 2/3: Finite difference method (5)
   - Homework 3: Due Monday, 2/7 before 5pm
 * Week 4
   - Tu 2/8: *No class*
-  - Th 2/10: Matrix inverses
+  - Th 2/10: Matrix inverses (6)
   - Homework 4: Due Monday, 2/14 before 5pm
 * Week 5
-  - Tu 2/15: Rank and solvability
+  - Tu 2/15: Rank and solvability (7)
   - Th 2/17: **Exam 1**
   - Homework 5: Due Monday, 2/21 before 5pm
 * Week 6
@@ -58,11 +60,11 @@ Linear Algebra for Biomedical Data Science</h2>
   - Homework 9: Due Monday, 3/28 before 5pm
 * Week 11
   - Tu 3/29: **Exam 2**
-  - Th 3/31: Cross validation, bias, and variance
+  - Th 3/31: Geometry
   - Homework 10: Due Monday, 4/4 before 5pm
 * Week 12
-  - Tu 4/5: Regularization
-  - Th 4/7: Geometry
+  - Tu 4/5: Cross validation, bias, and variance
+  - Th 4/7: Regularization
   - Homework 11: Due Monday, 4/11 before 5pm
 * Week 13
   - Tu 4/12: Support Vector Machines
