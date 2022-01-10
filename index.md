@@ -33,16 +33,16 @@ Linear Algebra for Biomedical Data Science</h2>
   - Th 2/3: Finite difference method (5)
   - [Homework 3](files/Homework03.pdf): Due Monday, 2/7 before 5pm
 * Week 4
-  - Tu 2/8: *No class*
-  - Th 2/10: Matrix inverses (6)
+  - Tu 2/8: Matrix inverses (6)
+  - Th 2/10: Rank and solvability (7)
   - Homework 4: Due Monday, 2/14 before 5pm
 * Week 5
-  - Tu 2/15: Rank and solvability (7)
-  - Th 2/17: **Exam 1**
+  - Tu 2/15: **Exam 1**
+  - Th 2/17: Linear models I
   - Homework 5: Due Monday, 2/21 before 5pm
 * Week 6
-  - Tu 2/22: Linear models I
-  - Th 2/24: Linear models II
+  - Tu 2/22: Linear models II
+  - Th 2/24: *no class*
   - Homework 6: Due Monday, 2/28 before 5pm
 * Week 7
   - Tu 3/1: Linear models III
