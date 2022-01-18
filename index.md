@@ -21,7 +21,7 @@ Linear Algebra for Biomedical Data Science</h2>
 
 * Week 1
   - *Lectures this week are online; see e-mail from the instructor for a Zoom link.*
-  - Tu 1/18: Notation, linearity, and field axioms (0 - 1.5)
+  - Tu 1/18: Notation, linearity, and field axioms (0 - 1.5) [[slides](files/01_slides.pdf)]
   - Th 1/20: Norms, dot products, and multiplication (1.6 - 1.8)
   - [Homework 1](files/Homework01.pdf): Due Monday, 1/24 before 5pm
     - [bioe210_test_suite.m](files/bioe210_test_suite.m)
