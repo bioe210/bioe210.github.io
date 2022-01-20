@@ -29,7 +29,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Week 2
   - Tu 1/25: Matrix multiplication (2)
   - Th 1/27: Rotation and translation (3)
-  - [Homework 2](files/Homework02.pdf): Due Monday, 1/31 before 5pm
+  - [Homework 2](files/Homework02.pdf): <font color="red">Due Monday, 2/7 before 5pm</font>
 * Week 3
   - Tu 2/1: Gaussian Elimination (4)
   - Th 2/3: Finite difference method (5)
