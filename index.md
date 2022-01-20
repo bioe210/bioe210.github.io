@@ -23,13 +23,13 @@ Linear Algebra for Biomedical Data Science</h2>
   - *Lectures this week are online; see e-mail from the instructor for a Zoom link.*
   - Tu 1/18: Notation, linearity, and field axioms (0 - 1.5) [[slides](files/01_slides.pdf)]
   - Th 1/20: Norms, dot products, and multiplication (1.6 - 1.8)
-  - [Homework 1](files/Homework01.pdf): Due Monday, 1/24 before 5pm
+  - [Homework 1](files/Homework01.pdf): <font color="red">Due Monday, 1/31 before 5pm</font>
     - [bioe210_test_suite.m](files/bioe210_test_suite.m)
     - [lasso_data.mat](files/lasso_data.mat)
 * Week 2
   - Tu 1/25: Matrix multiplication (2)
   - Th 1/27: Rotation and translation (3)
-  - [Homework 2](files/Homework02.pdf): <font color="red">Due Monday, 2/7 before 5pm</font>
+  - [Homework 2](files/Homework02.pdf): Due Monday, 1/31 before 5pm
 * Week 3
   - Tu 2/1: Gaussian Elimination (4)
   - Th 2/3: Finite difference method (5)
