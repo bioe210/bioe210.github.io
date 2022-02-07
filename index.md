@@ -26,10 +26,12 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Homework 1](files/Homework01.pdf): <font color="red">Due Monday, 1/31 before 5pm</font>
     - [bioe210_test_suite.m](files/bioe210_test_suite.m)
     - [lasso_data.mat](files/lasso_data.mat)
+    - [Solutions](files/Homework01_Solutions.pdf)
 * Week 2
   - Tu 1/25: Matrix multiplication (2)
   - Th 1/27: Rotation and translation (3)
   - [Homework 2](files/Homework02.pdf): Due Monday, 1/31 before 5pm
+    - [Solutions](files/Homework02_Solutions.pdf)
 * Week 3
   - Tu 2/1: Gaussian Elimination (4)
   - Th 2/3: Finite difference method (5)
