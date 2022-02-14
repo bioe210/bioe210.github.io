@@ -37,6 +37,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - Th 2/3: Finite difference method (5)
     -  **No lecture on 2/3.** Read chapter 5 and complete these [practice problems](files/FiniteDifferencePracticeProblems.pdf) (answers included).
   - [Homework 3](files/Homework03.pdf): Due Monday, 2/7 before 5pm
+    - [Solutions](files/Homework03_Solutions.pdf)
 * Week 4
   - Tu 2/8: Matrix inverses (6)
   - Th 2/10: Rank and solvability (7)
