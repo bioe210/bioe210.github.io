@@ -45,7 +45,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Week 5
   - Tu 2/15: **Exam 1**
   - Th 2/17: Linear models I
-  - Homework 5: Due Monday, 2/21 before 5pm
+  - [Homework 5](files/Homework05.pdf): Due Monday, 2/21 before 5pm
 * Week 6
   - Tu 2/22: Linear models II
   - Th 2/24: *no class*
