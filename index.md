@@ -44,14 +44,14 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Homework 4](files/Homework04.pdf): Due Monday, 2/14 before 5pm
 * Week 5
   - Tu 2/15: **Exam 1**
-  - Th 2/17: Linear models I
-  - [Homework 5](files/Homework05.pdf): Due Monday, 2/21 before 5pm
+  - Th 2/17: *no class*
+  - [Homework 5](files/Homework05.pdf): <font color="red">Due Monday, 2/28 before 5pm</font>
 * Week 6
-  - Tu 2/22: Linear models II
-  - Th 2/24: *no class*
+  - Tu 2/22: Linear models I (8.1-8.3)
+  - Th 2/24: Linear models II (8.4-8.6)
   - Homework 6: Due Monday, 2/28 before 5pm
 * Week 7
-  - Tu 3/1: Linear models III
+  - Tu 3/1: Linear models III (9)
   - Th 3/3: Root finding
   - Homework 7: Due Monday, 3/7 before 5pm
 * Week 8
