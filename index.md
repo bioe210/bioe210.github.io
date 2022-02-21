@@ -49,7 +49,9 @@ Linear Algebra for Biomedical Data Science</h2>
 * Week 6
   - Tu 2/22: Linear models I (8.1-8.3)
   - Th 2/24: Linear models II (8.4-8.6)
-  - Homework 6: Due Monday, 2/28 before 5pm
+  - [Homework 6](files/Homework06.pdf): Due Monday, 2/28 before 5pm
+    - [MLX file](files/Homework06.mlx)
+    - [HW6_data.mat](files/HW6_data.mat)
 * Week 7
   - Tu 3/1: Linear models III (9)
   - Th 3/3: Root finding
