@@ -42,6 +42,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - Tu 2/8: Matrix inverses (6)
   - Th 2/10: Rank and solvability (7)
   - [Homework 4](files/Homework04.pdf): Due Monday, 2/14 before 5pm
+    - [Solutions](files/Homework04_Solutions.pdf)
 * Week 5
   - Tu 2/15: **Exam 1**
   - Th 2/17: *no class*
