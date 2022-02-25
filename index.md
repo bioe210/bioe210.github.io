@@ -49,8 +49,8 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Homework 5](files/Homework05.pdf): <font color="red">Due Monday, 2/28 before 5pm</font>
 * Week 6
   - Tu 2/22: Linear models I (8.1-8.3)
-  - Th 2/24: Linear models II (8.4-8.6)
-  - [Homework 6](files/Homework06.pdf): Due Monday, 2/28 before 5pm
+  - Th 2/24: Linear models II (8.4-8.6, 9.3-9.4) [[notes](files/LinearModels2Notes.pdf)]
+  - [Homework 6](files/Homework06.pdf): <font color="red">Due Wednesday, 3/2 before 5pm</font>
     - [MLX file](files/Homework06.mlx)
     - [HW6_data.mat](files/HW6_data.mat)
 * Week 7
