@@ -55,8 +55,13 @@ Linear Algebra for Biomedical Data Science</h2>
     - [HW6_data.mat](files/HW6_data.mat)
 * Week 7
   - Tu 3/1: Linear models III (9)
+    - [Applied Linear Regression in Matlab](files/Applied_Linear_Regression.pdf)
+      - [MLX file](files/Applied_Linear_Regression.mlx)
+      - [hospital_data.mat](files/hospital_data.mat)
   - Th 3/3: Root finding
-  - Homework 7: Due Monday, 3/7 before 5pm
+  - [Homework 7](files/Homework07.pdf): Due Monday, 3/7 before 5pm
+    - [MLX file](files/Homework07.mlx)
+    - [HW7_data.mat](files/HW7_data.mat)
 * Week 8
   - Tu 3/8: Nonlinear systems
   - Th 3/10: Optimization and convexity
