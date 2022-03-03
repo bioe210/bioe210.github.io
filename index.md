@@ -58,7 +58,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - Tu 3/1: Linear models III (9)
     - [Applied Linear Regression in Matlab](files/Applied_Linear_Regression.pdf)
       - [MLX file](files/Applied_Linear_Regression.mlx)
-      - [hospital_data.mat](files/hospital_data.mat)
+      - [hospital_records.mat](files/hospital_records.mat)
   - Th 3/3: Root finding
   - [Homework 7](files/Homework07.pdf): Due Monday, 3/7 before 5pm
     - [MLX file](files/Homework07.mlx)
