@@ -59,39 +59,39 @@ Linear Algebra for Biomedical Data Science</h2>
     - [Applied Linear Regression in Matlab](files/Applied_Linear_Regression.pdf)
       - [MLX file](files/Applied_Linear_Regression.mlx)
       - [hospital_records.mat](files/hospital_records.mat)
-  - Th 3/3: Root finding
+  - Th 3/3: Root finding (10)
   - [Homework 7](files/Homework07.pdf): Due Monday, 3/7 before 5pm
     - [MLX file](files/Homework07.mlx)
     - [HW7_data.mat](files/HW7_data.mat)
 * Week 8
-  - Tu 3/8: Nonlinear systems
-  - Th 3/10: Optimization and convexity
-  - Homework 8: Due Monday, 3/14 before 5pm
+  - Tu 3/8: Optimization and convexity (11)
+  - Th 3/10: Gradient descent (12)
+  - [Homework 8](files/Homework08.pdf): Due Monday, 3/21 before 5pm
 * Week 9
   - *Spring Break*
 * Week 10
-  - Tu 3/22: Gradient descent
-  - Th 3/24: Logistic regression
+  - Tu 3/22: Logistic regression (13)
+  - Th 3/24: Cross validation, bias, and variance (14.1-14.4)
   - Homework 9: Due Monday, 3/28 before 5pm
 * Week 11
   - Tu 3/29: **Exam 2**
-  - Th 3/31: Geometry
+  - Th 3/31: Regularization (14.5)
   - Homework 10: Due Monday, 4/4 before 5pm
 * Week 12
-  - Tu 4/5: Cross validation, bias, and variance
-  - Th 4/7: Regularization
+  - Tu 4/5: Geometry (15)
+  - Th 4/7: Support Vector Machines (16)
   - Homework 11: Due Monday, 4/11 before 5pm
 * Week 13
-  - Tu 4/12: Support Vector Machines
-  - Th 4/14: Basis vectors and orthogonality
+  - Tu 4/12: Basis vectors and orthogonality
+  - Th 4/14: Eigenvalues and eigenvectors
   - Homework 12: Due Monday, 4/18 before 5pm
 * Week 14
-  - Tu 4/19: Eigenvalues and eigenvectors
-  - Th 4/21: Singular Value Decomposition
+  - Tu 4/19: Singular Value Decomposition
+  - Th 4/21: Low rank approximations
   - Homework 13: Due Monday, 4/25 before 5pm
 * Week 15
-  - Tu 4/26: Low rank approximations
-  - Th 4/28: Principal Component Analysis
+  - Tu 4/26: Principal Component Analysis
+  - Th 4/28: Recommender systems
   - Homework 14: Due Monday, 5/2 before 5pm
 * Week 16
   - Tu 5/3: **Exam 3**
