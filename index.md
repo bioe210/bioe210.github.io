@@ -54,6 +54,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Homework 6](files/Homework06.pdf): <font color="red">Due Wednesday, 3/2 before 5pm</font>
     - [MLX file](files/Homework06.mlx)
     - [HW6_data.mat](files/HW6_data.mat)
+    - [Solutions](files/Homework06_Solutions.pdf)
 * Week 7
   - Tu 3/1: Linear models III (9)
     - [Applied Linear Regression in Matlab](files/Applied_Linear_Regression.pdf)
