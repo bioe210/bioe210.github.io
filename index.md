@@ -67,6 +67,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Week 8
   - Tu 3/8: Optimization and convexity (11)
   - Th 3/10: Gradient descent (12)
+    - [MLX file](files/GradientDescent.mlx) for examples in the textbook
   - [Homework 8](files/Homework08.pdf): Due Monday, 3/21 before 5pm
 * Week 9
   - *Spring Break*
