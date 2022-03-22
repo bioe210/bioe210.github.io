@@ -75,7 +75,8 @@ Linear Algebra for Biomedical Data Science</h2>
   - Tu 3/22: Logistic regression (13)
     - [MLX file](files/LogisticRegressionGradientDescent.mlx) and [MAT file](files/huntington.mat) for gradient descent example
   - Th 3/24: Cross validation, bias, and variance (14.1-14.4)
-  - Homework 9: Due Monday, 3/28 before 5pm
+  - [Homework 9](files/Homework09.pdf): Due Monday, 3/28 before 5pm
+    - [cas9.mat](files/cas9.mat)
 * Week 11
   - Tu 3/29: **Exam 2**
   - Th 3/31: Regularization (14.5)
