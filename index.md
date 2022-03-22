@@ -73,6 +73,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - *Spring Break*
 * Week 10
   - Tu 3/22: Logistic regression (13)
+    - [MLX file](files/LogisticRegressionGradientDescent.mlx) and [MAT file](files/huntington.mat) for gradient descent example
   - Th 3/24: Cross validation, bias, and variance (14.1-14.4)
   - Homework 9: Due Monday, 3/28 before 5pm
 * Week 11
