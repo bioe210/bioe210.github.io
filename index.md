@@ -78,7 +78,7 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Homework 9](files/Homework09.pdf): Due Monday, 3/28 before 5pm
     - [cas9.mat](files/cas9.mat)
 * Week 11
-  - Tu 3/29: **Exam 2**
+  - Tu 3/29: **Exam 2** (Chapters 8-14.4)
   - Th 3/31: Regularization (14.5)
   - Homework 10: Due Monday, 4/4 before 5pm
 * Week 12
