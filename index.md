@@ -64,11 +64,13 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Homework 7](files/Homework07.pdf): Due Monday, 3/7 before 5pm
     - [MLX file](files/Homework07.mlx)
     - [HW7_data.mat](files/HW7_data.mat)
+    - [Solutions](files/Homework07_Solutions.pdf)
 * Week 8
   - Tu 3/8: Optimization and convexity (11)
   - Th 3/10: Gradient descent (12)
     - [MLX file](files/GradientDescent.mlx) for examples in the textbook
   - [Homework 8](files/Homework08.pdf): Due Monday, 3/21 before 5pm
+    - [Solutions](files/Homework08_Solutions.pdf)
 * Week 9
   - *Spring Break*
 * Week 10
