@@ -82,7 +82,9 @@ Linear Algebra for Biomedical Data Science</h2>
 * Week 11
   - Tu 3/29: **Exam 2** (Chapters 8-14.4)
   - Th 3/31: Regularization (14.5)
-  - Homework 10: Due Monday, 4/4 before 5pm
+  - [Homework 10](files/Homework10.pdf): <font color="red">Due Monday, 4/11 before 5pm</font>
+    - [MLX file](files/Homework10.mlx)
+    - [HW10_data.mat](files/HW10_data.mat)
 * Week 12
   - Tu 4/5: Geometry (15)
   - Th 4/7: Support Vector Machines (16)
