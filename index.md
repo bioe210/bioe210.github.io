@@ -81,25 +81,26 @@ Linear Algebra for Biomedical Data Science</h2>
     - [cas9.mat](files/cas9.mat)
 * Week 11
   - Tu 3/29: **Exam 2** (Chapters 8-14.4)
-  - Th 3/31: Regularization (14.5)
+  - Th 3/31: Regularization (14.5) & Geometry (15)
   - [Homework 10](files/Homework10.pdf): <font color="red">Due Monday, 4/11 before 5pm</font>
     - [MLX file](files/Homework10.mlx)
     - [HW10_data.mat](files/HW10_data.mat)
 * Week 12
-  - Tu 4/5: Geometry (15)
-  - Th 4/7: Support Vector Machines (16)
-  - Homework 11: Due Monday, 4/11 before 5pm
+  - Tu 4/5: Support Vector Machines (16)
+  - Th 4/7: Basis vectors and orthogonality
+  - [Homework 11](files/Homework11.pdf): Due Monday, 4/11 before 5pm
+    - [HW11_data.mat](files/HW11_data.mat)
 * Week 13
-  - Tu 4/12: Basis vectors and orthogonality
-  - Th 4/14: Eigenvalues and eigenvectors
+  - Tu 4/12: Eigenvalues and eigenvectors
+  - Th 4/14: Singular Value Decomposition
   - Homework 12: Due Monday, 4/18 before 5pm
 * Week 14
-  - Tu 4/19: Singular Value Decomposition
-  - Th 4/21: Low rank approximations
+  - Tu 4/19: Low rank approximations
+  - Th 4/21: Principal Component Analysis
   - Homework 13: Due Monday, 4/25 before 5pm
 * Week 15
-  - Tu 4/26: Principal Component Analysis
-  - Th 4/28: Recommender systems
+  - Tu 4/26: Recommender systems
+  - Th 4/28:
   - Homework 14: Due Monday, 5/2 before 5pm
 * Week 16
   - Tu 5/3: **Exam 3**
