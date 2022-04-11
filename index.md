@@ -94,7 +94,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Week 13
   - Tu 4/12: Eigenvalues and eigenvectors
   - Th 4/14: Singular Value Decomposition
-  - Homework 12: Due Monday, 4/18 before 5pm
+  - [Homework 12](files/Homework12.pdf): Due Monday, 4/18 before 5pm
 * Week 14
   - Tu 4/19: Low rank approximations
   - Th 4/21: Principal Component Analysis
