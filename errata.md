@@ -12,10 +12,19 @@ layout: main-layout
 <i>Linear Algebra: Foundations of Machine Learning</i></h2>
 </center>
 
-*Last update: 3/29/2022.*
+*Last update: 4/14/2022.*
 
 <b>Page 115</b> The second equation should read
 
 $$ P(\text{disease}) = \frac{1}{1 + e^{-(-14.032=0.50558[\text{CAGs}])}}. $$
 
 Note the minus sign in the exponent.
+
+<p>
+<b>Page 159</b> In the third to last line
+
+$$ \boldsymbol{A} - \lambda_\text{max}\boldsymbol{I} $$
+
+should read
+
+$$ \boldsymbol{A} - \lambda_\text{max}\boldsymbol{b}\boldsymbol{b}^\text{T} $$
