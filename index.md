@@ -88,20 +88,20 @@ Linear Algebra for Biomedical Data Science</h2>
     - [HW10_data.mat](files/HW10_data.mat)
 * Week 12
   - Tu 4/5: Support Vector Machines (16)
-  - Th 4/7: Basis vectors and orthogonality
+  - Th 4/7: Basis vectors and orthogonality (17)
   - [Homework 11](files/Homework11.pdf): Due Monday, 4/11 before 5pm
     - [HW11_data.mat](files/HW11_data.mat)
 * Week 13
-  - Tu 4/12: Eigenvalues and eigenvectors
-  - Th 4/14: Singular Value Decomposition
+  - Tu 4/12: Eigenvalues and eigenvectors (18)
+  - Th 4/14: Eigendecomposition (19.1)
   - [Homework 12](files/Homework12.pdf): Due Monday, 4/18 before 5pm
 * Week 14
-  - Tu 4/19: Low rank approximations
-  - Th 4/21: Principal Component Analysis
+  - Tu 4/19: Singular Value Decomposition (19.2-19.3)
+  - Th 4/21: Low rank approximations (20.1)
   - Homework 13: Due Monday, 4/25 before 5pm
 * Week 15
-  - Tu 4/26: Recommender systems
-  - Th 4/28:
+  - Tu 4/26: Principal Component Analysis
+  - Th 4/28: Recommender systems (20.2)
   - Homework 14: Due Monday, 5/2 before 5pm
 * Week 16
   - Tu 5/3: **Exam 3**
