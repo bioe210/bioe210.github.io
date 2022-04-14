@@ -23,8 +23,8 @@ Note the minus sign in the exponent.
 <p>
 <b>Page 159</b> In the third to last line
 
-$$ \boldsymbol{A} - \lambda_\text{max}\boldsymbol{I} $$
+$$ \boldsymbol{\mathrm{A}} - \lambda_\text{max}\boldsymbol{\mathrm{I}} $$
 
 should read
 
-$$ \boldsymbol{A} - \lambda_\text{max}\boldsymbol{v}_\text{max}\boldsymbol{v}_\text{max}^\text{T} $$
+$$ \boldsymbol{\mathrm{A}} - \lambda_\text{max}\boldsymbol{\mathrm{v}}_\text{max}\boldsymbol{\mathrm{v}}_\text{max}^\mathsf{T} $$
