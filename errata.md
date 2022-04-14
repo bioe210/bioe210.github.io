@@ -27,4 +27,4 @@ $$ \boldsymbol{A} - \lambda_\text{max}\boldsymbol{I} $$
 
 should read
 
-$$ \boldsymbol{A} - \lambda_\text{max}\boldsymbol{b}\boldsymbol{b}^\text{T} $$
+$$ \boldsymbol{A} - \lambda_\text{max}\boldsymbol{v}_\text{max}\boldsymbol{v}_\text{max}^\text{T} $$
