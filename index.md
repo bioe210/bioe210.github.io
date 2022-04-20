@@ -98,7 +98,7 @@ Linear Algebra for Biomedical Data Science</h2>
 * Week 14
   - Tu 4/19: Singular Value Decomposition (19.2-19.3)
   - Th 4/21: Low rank approximations (20.1)
-  - Homework 13: Due Monday, 4/25 before 5pm
+  - [Homework 13](files/Homework13.pdf): Due Monday, 4/25 before 5pm
 * Week 15
   - Tu 4/26: Principal Component Analysis
   - Th 4/28: Recommender systems (20.2)
