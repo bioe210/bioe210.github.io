@@ -104,6 +104,6 @@ Linear Algebra for Biomedical Data Science</h2>
 * Week 15
   - Tu 4/26: Principal Component Analysis
   - Th 4/28: Recommender systems (20.2)
-  - Homework 14: Due Monday, 5/2 before 5pm
+  - [Homework 14](files/Homework14.mlx): Due Monday, 5/2 before 5pm
 * Week 16
   - Tu 5/3: **Exam 3**
