@@ -102,7 +102,8 @@ Linear Algebra for Biomedical Data Science</h2>
     - [Image compression slides](files/LowRankApproximations2.pptx)
   - [Homework 13](files/Homework13.pdf): Due Monday, 4/25 before 5pm
 * Week 15
-  - Tu 4/26: Principal Component Analysis
+  - Tu 4/26: Principal Component Analysis [[slides](slides/PCA.pdf)]
+    - [PCA Guide](files/PCA_guide.pdf)
   - Th 4/28: Recommender systems (20.2)
   - [Homework 14](files/Homework14.mlx): Due Monday, 5/2 before 5pm
 * Week 16
