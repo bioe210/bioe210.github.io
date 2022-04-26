@@ -108,3 +108,6 @@ Linear Algebra for Biomedical Data Science</h2>
   - [Homework 14](files/Homework14.mlx): Due Monday, 5/2 before 5pm
 * Week 16
   - Tu 5/3: **Exam 3**
+    - [SVM study guide](guides/StudyGuideSVM.pdf)
+    - [Basis study guide](guides/StudyGuideBasis.pdf)
+    - [Eigenvalue/eigenvector study guide](guides/StudyGuideEigen.pdf)
