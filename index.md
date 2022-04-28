@@ -80,27 +80,32 @@ Linear Algebra for Biomedical Data Science</h2>
   - Th 3/24: Cross validation, bias, and variance (14.1-14.4)
   - [Homework 9](files/Homework09.pdf): Due Monday, 3/28 before 5pm
     - [cas9.mat](files/cas9.mat)
+    - [Solutions](files/Homework09_Solutions.pdf)
 * Week 11
   - Tu 3/29: **Exam 2** (Chapters 8-14.4)
   - Th 3/31: Regularization (14.5) & Geometry (15)
   - [Homework 10](files/Homework10.pdf): <font color="red">Due Monday, 4/11 before 5pm</font>
     - [MLX file](files/Homework10.mlx)
     - [HW10_data.mat](files/HW10_data.mat)
+    - [Solutions](files/Homework10_Solutions.pdf)
 * Week 12
   - Tu 4/5: Support Vector Machines (16)
   - Th 4/7: Basis vectors and orthogonality (17)
   - [Homework 11](files/Homework11.pdf): Due Monday, 4/11 before 5pm
     - [HW11_data.mat](files/HW11_data.mat)
+    - [Solutions](files/Homework11_Solutions.pdf)
 * Week 13
   - Tu 4/12: Eigenvalues and eigenvectors (18)
   - Th 4/14: Eigendecomposition (19.1)
   - [Homework 12](files/Homework12.pdf): Due Monday, 4/18 before 5pm
+    - [Solutions](files/Homework12_Solutions.pdf)
 * Week 14
   - Tu 4/19: Singular Value Decomposition (19.2-19.3)
   - Th 4/21: Low rank approximations (20.1)
     - [SVD review slides](files/LowRankApproximations1.pdf)
     - [Image compression slides](files/LowRankApproximations2.pptx)
   - [Homework 13](files/Homework13.pdf): Due Monday, 4/25 before 5pm
+    - [Solutions](files/Homework13_Solutions.pdf)
 * Week 15
   - Tu 4/26: Principal Component Analysis [[slides](slides/PCA.pdf)]
     - [PCA Guide](files/PCA_guide.pdf)
